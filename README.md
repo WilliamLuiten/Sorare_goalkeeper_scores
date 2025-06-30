@@ -14,20 +14,16 @@ Analyze how the rule change impacts:
 
 ## Repository Structure
 
-sorare-goalkeeper-analysis/
-│
-├── notebooks/
-│ └── sorare_goalkeeper_matrix_analysis.ipynb # Full analysis in Jupyter
-│
-├── data/
-│ └── (Optional) Processed or sample CSVs
-│
-├── plots/
-│ └── figures used in the Medium post
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
+sorare-goalkeeper-analysis
+- notebooks
+  - sorare_goalkeeper_matrix_analysis.ipynb # Full analysis in Jupyter
+- data
+  -
+- plots
+  - figures export
+- requirements.txt
+- README.md
+- .gitignore
 
 ## Summary of Key Findings
 
