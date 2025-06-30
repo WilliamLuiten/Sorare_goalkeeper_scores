@@ -16,11 +16,9 @@ Analyze how the rule change impacts:
 
 sorare-goalkeeper-analysis
 - notebooks
-  - sorare_goalkeeper_matrix_analysis.ipynb # Full analysis in Jupyter
+  - sorare_goalkeeper_matrix_analysis.ipynb
 - data
-  -
-- plots
-  - figures export
+  - csv files used in the analysis
 - requirements.txt
 - README.md
 - .gitignore
@@ -38,7 +36,6 @@ sorare-goalkeeper-analysis
 ```bash
 git clone https://github.com/WilliamLuiten/Sorare_goalkeeper_scores.git
 cd Sorare_goalkeeper_scores
-Create and activate a virtual environment (optional but recommended)
 ```
 
 2. Create and activate a virtual environment (optional but recommended)
