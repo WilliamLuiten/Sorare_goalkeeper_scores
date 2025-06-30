@@ -1,8 +1,5 @@
 # Sorare Goalkeeper Scoring Analysis: Impact of the 2025 Matrix Update
 
-This repository contains the data analysis behind the Medium post:  
-**"How Sorare’s New Scoring Matrix Changes the Game for Goalkeepers"**
-
 ## Context
 
 In 2025, Sorare updated their scoring system by **removing the negative decisive for goalkeepers** who concede three or more goals. This change particularly affects GKs from lower-tier teams, who face more shots but now aren’t punished as severely. Goalkeepers from lower-tier teams are typically more affordable in the Sorare market. This analysis explores whether that price gap is still justified under the updated scoring matrix.
