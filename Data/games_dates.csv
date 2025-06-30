@@ -1,0 +1,2033 @@
+fixture,hometeam,awayteam,homegoals,awaygoals,Date
+1055070,FC Volendam,Vitesse,1,2,2023-08-11
+1055071,PSV Eindhoven,Utrecht,2,0,2023-08-12
+1055072,Heerenveen,Waalwijk,3,1,2023-08-12
+1055073,Ajax,Heracles,4,1,2023-08-12
+1055074,PEC Zwolle,Sparta Rotterdam,1,2,2023-08-12
+1055075,NEC Nijmegen,Excelsior,3,4,2023-08-13
+1055077,AZ Alkmaar,GO Ahead Eagles,5,1,2023-08-13
+1055076,Feyenoord,Fortuna Sittard,0,0,2023-08-13
+1055078,Almere City FC,Twente,1,4,2023-08-13
+1055079,Heracles,NEC Nijmegen,2,1,2023-08-18
+1055080,Excelsior,Ajax,2,2,2023-08-19
+1055081,Vitesse,PSV Eindhoven,1,3,2023-08-19
+1055082,Fortuna Sittard,Almere City FC,2,1,2023-08-19
+1055083,GO Ahead Eagles,FC Volendam,4,1,2023-08-19
+1055084,Utrecht,Heerenveen,0,2,2023-08-20
+1055086,Twente,PEC Zwolle,3,1,2023-08-20
+1055085,Sparta Rotterdam,Feyenoord,2,2,2023-08-20
+1055087,Waalwijk,AZ Alkmaar,1,3,2023-08-20
+1055088,NEC Nijmegen,Waalwijk,3,0,2023-08-26
+1055090,Excelsior,Fortuna Sittard,2,2,2023-08-26
+1055091,PEC Zwolle,Utrecht,1,0,2023-08-27
+1055092,Feyenoord,Almere City FC,6,1,2023-08-27
+1055093,Heerenveen,Sparta Rotterdam,1,3,2023-08-27
+1055097,Sparta Rotterdam,NEC Nijmegen,1,1,2023-09-01
+1055098,Almere City FC,PEC Zwolle,1,2,2023-09-02
+1055099,GO Ahead Eagles,Heerenveen,3,2,2023-09-02
+1055100,Waalwijk,PSV Eindhoven,0,4,2023-09-02
+1055101,Heracles,Excelsior,3,1,2023-09-02
+1055102,Utrecht,Feyenoord,1,5,2023-09-03
+1055103,Fortuna Sittard,Ajax,0,0,2023-09-03
+1055104,FC Volendam,Twente,0,2,2023-09-03
+1055105,Vitesse,AZ Alkmaar,0,2,2023-09-03
+1055106,Feyenoord,Heerenveen,6,1,2023-09-16
+1055107,Vitesse,Waalwijk,0,2,2023-09-16
+1055108,PSV Eindhoven,NEC Nijmegen,4,0,2023-09-16
+1055109,Fortuna Sittard,FC Volendam,3,1,2023-09-16
+1055110,Heracles,Utrecht,1,3,2023-09-16
+1055111,PEC Zwolle,GO Ahead Eagles,1,1,2023-09-17
+1055113,Excelsior,Almere City FC,0,0,2023-09-17
+1055112,Twente,Ajax,3,1,2023-09-17
+1055114,AZ Alkmaar,Sparta Rotterdam,2,0,2023-09-17
+1055115,GO Ahead Eagles,Fortuna Sittard,3,0,2023-09-22
+1055116,FC Volendam,Heracles,2,2,2023-09-23
+1055117,NEC Nijmegen,Utrecht,3,0,2023-09-23
+1055118,Almere City FC,PSV Eindhoven,0,4,2023-09-23
+1055119,Heerenveen,Excelsior,0,3,2023-09-23
+1055120,Sparta Rotterdam,Vitesse,1,0,2023-09-24
+1055123,PEC Zwolle,AZ Alkmaar,0,3,2023-09-24
+1055122,Waalwijk,Twente,1,0,2023-09-24
+1055121,Ajax,Feyenoord,0,4,2023-09-27
+1055089,PSV Eindhoven,GO Ahead Eagles,3,0,2023-09-27
+1055094,Twente,Vitesse,1,0,2023-09-27
+1055096,AZ Alkmaar,Heracles,1,1,2023-09-28
+1055124,Feyenoord,GO Ahead Eagles,3,1,2023-09-30
+1055126,PSV Eindhoven,FC Volendam,3,1,2023-09-30
+1055125,Utrecht,Almere City FC,0,2,2023-09-30
+1055127,Twente,Heerenveen,1,0,2023-09-30
+1055129,NEC Nijmegen,Vitesse,1,3,2023-10-01
+1055130,Excelsior,Sparta Rotterdam,2,1,2023-10-01
+1055131,Heracles,PEC Zwolle,2,1,2023-10-01
+1055132,AZ Alkmaar,Fortuna Sittard,4,0,2023-10-01
+1055133,FC Volendam,Utrecht,1,0,2023-10-06
+1055134,Heerenveen,NEC Nijmegen,1,1,2023-10-07
+1055135,Almere City FC,Waalwijk,1,0,2023-10-07
+1055136,GO Ahead Eagles,Heracles,4,0,2023-10-07
+1055137,Vitesse,Excelsior,0,0,2023-10-07
+1055138,PEC Zwolle,Feyenoord,0,2,2023-10-08
+1055140,Ajax,AZ Alkmaar,1,2,2023-10-08
+1055139,Fortuna Sittard,Twente,0,3,2023-10-08
+1055141,Sparta Rotterdam,PSV Eindhoven,0,4,2023-10-08
+1055144,PSV Eindhoven,Fortuna Sittard,3,1,2023-10-21
+1055143,Waalwijk,FC Volendam,2,1,2023-10-21
+1055146,NEC Nijmegen,Almere City FC,1,1,2023-10-21
+1055145,AZ Alkmaar,Heerenveen,3,0,2023-10-21
+1055142,Feyenoord,Vitesse,4,0,2023-10-21
+1055147,Utrecht,Ajax,4,3,2023-10-22
+1055149,Excelsior,PEC Zwolle,2,4,2023-10-22
+1055148,Heracles,Twente,2,2,2023-10-22
+1055150,GO Ahead Eagles,Sparta Rotterdam,0,0,2023-10-22
+1055151,Vitesse,PEC Zwolle,1,1,2023-10-27
+1055152,Heerenveen,Heracles,3,0,2023-10-28
+1055153,Almere City FC,GO Ahead Eagles,0,0,2023-10-28
+1055154,Sparta Rotterdam,Waalwijk,2,0,2023-10-28
+1055155,Fortuna Sittard,Utrecht,0,0,2023-10-28
+1055156,Twente,Feyenoord,2,1,2023-10-29
+1055158,PSV Eindhoven,Ajax,5,2,2023-10-29
+1055157,FC Volendam,Excelsior,3,1,2023-10-29
+1055095,Ajax,FC Volendam,2,0,2023-11-02
+1055164,Heracles,PSV Eindhoven,0,6,2023-11-04
+1055162,Excelsior,AZ Alkmaar,1,1,2023-11-04
+1055161,Waalwijk,Feyenoord,1,2,2023-11-04
+1055163,GO Ahead Eagles,Vitesse,5,1,2023-11-04
+1055165,Utrecht,Twente,1,1,2023-11-05
+1055166,PEC Zwolle,Fortuna Sittard,2,0,2023-11-05
+1055167,NEC Nijmegen,FC Volendam,3,3,2023-11-05
+1055160,Ajax,Heerenveen,4,1,2023-11-05
+1055168,Sparta Rotterdam,Almere City FC,1,2,2023-11-05
+1055169,Fortuna Sittard,Heracles,4,1,2023-11-10
+1055171,Waalwijk,GO Ahead Eagles,0,1,2023-11-11
+1055174,Twente,NEC Nijmegen,3,3,2023-11-11
+1055172,Vitesse,Heerenveen,1,3,2023-11-11
+1055170,PSV Eindhoven,PEC Zwolle,4,0,2023-11-12
+1055173,FC Volendam,Sparta Rotterdam,1,4,2023-11-12
+1055175,Almere City FC,Ajax,2,2,2023-11-12
+1055176,Feyenoord,AZ Alkmaar,1,0,2023-11-12
+1055177,Utrecht,Excelsior,2,2,2023-11-12
+1055178,Excelsior,Feyenoord,2,4,2023-11-25
+1055180,Heerenveen,Fortuna Sittard,3,0,2023-11-25
+1055179,Twente,PSV Eindhoven,0,3,2023-11-25
+1055181,PEC Zwolle,Waalwijk,1,2,2023-11-25
+1055182,Ajax,Vitesse,5,0,2023-11-25
+1055183,Almere City FC,Heracles,0,5,2023-11-26
+1055184,AZ Alkmaar,FC Volendam,3,0,2023-11-26
+1055185,NEC Nijmegen,GO Ahead Eagles,1,1,2023-11-26
+1055186,Sparta Rotterdam,Utrecht,1,2,2023-11-26
+1055187,Heerenveen,Almere City FC,3,0,2023-12-01
+1055188,FC Volendam,PEC Zwolle,0,5,2023-12-02
+1055189,Fortuna Sittard,Vitesse,3,1,2023-12-02
+1055190,Waalwijk,Excelsior,2,2,2023-12-02
+1055191,Heracles,Sparta Rotterdam,0,1,2023-12-02
+1055192,Feyenoord,PSV Eindhoven,1,2,2023-12-03
+1055194,GO Ahead Eagles,Twente,1,3,2023-12-03
+1055193,NEC Nijmegen,Ajax,1,2,2023-12-03
+1055195,Utrecht,AZ Alkmaar,1,1,2023-12-03
+1055159,AZ Alkmaar,NEC Nijmegen,1,2,2023-12-06
+1055128,Waalwijk,Ajax,2,3,2023-12-06
+1055198,PSV Eindhoven,Heerenveen,2,0,2023-12-07
+1055196,Feyenoord,FC Volendam,3,1,2023-12-07
+1055197,Twente,Excelsior,4,2,2023-12-08
+1055202,Ajax,Sparta Rotterdam,2,1,2023-12-09
+1055199,PEC Zwolle,NEC Nijmegen,1,3,2023-12-09
+1055200,AZ Alkmaar,Almere City FC,4,1,2023-12-09
+1055201,GO Ahead Eagles,Utrecht,0,2,2023-12-10
+1055203,Fortuna Sittard,Waalwijk,1,0,2023-12-10
+1055204,Vitesse,Heracles,2,0,2023-12-10
+1055205,NEC Nijmegen,Fortuna Sittard,4,1,2023-12-15
+1055206,Utrecht,Waalwijk,1,1,2023-12-16
+1055207,Excelsior,GO Ahead Eagles,1,1,2023-12-16
+1055208,Heerenveen,FC Volendam,1,2,2023-12-16
+1055209,Almere City FC,Vitesse,5,0,2023-12-17
+1055211,Heracles,Feyenoord,0,4,2023-12-17
+1055210,Sparta Rotterdam,Twente,2,2,2023-12-17
+1055212,Ajax,PEC Zwolle,2,2,2023-12-17
+1055213,AZ Alkmaar,PSV Eindhoven,0,4,2023-12-17
+1055214,Waalwijk,Heracles,1,2,2024-01-12
+1055215,Fortuna Sittard,Sparta Rotterdam,0,2,2024-01-13
+1055216,Twente,AZ Alkmaar,2,1,2024-01-13
+1055217,PEC Zwolle,Heerenveen,2,2,2024-01-13
+1055218,PSV Eindhoven,Excelsior,3,1,2024-01-13
+1055219,FC Volendam,Almere City FC,0,1,2024-01-14
+1055221,Vitesse,Utrecht,0,0,2024-01-14
+1055220,GO Ahead Eagles,Ajax,2,3,2024-01-14
+1055222,Feyenoord,NEC Nijmegen,2,2,2024-01-14
+1055223,Excelsior,Heerenveen,3,0,2024-01-19
+1055224,NEC Nijmegen,Twente,1,0,2024-01-20
+1055225,Heracles,FC Volendam,1,1,2024-01-20
+1055226,AZ Alkmaar,PEC Zwolle,2,2,2024-01-20
+1055228,Utrecht,PSV Eindhoven,1,1,2024-01-21
+1055229,Vitesse,Feyenoord,1,2,2024-01-21
+1055230,Sparta Rotterdam,GO Ahead Eagles,0,2,2024-01-21
+1055231,Ajax,Waalwijk,4,1,2024-01-21
+1055227,Almere City FC,Fortuna Sittard,0,0,2024-01-24
+1055232,PEC Zwolle,Vitesse,1,0,2024-01-26
+1055234,PSV Eindhoven,Almere City FC,2,0,2024-01-27
+1055233,Waalwijk,Sparta Rotterdam,1,1,2024-01-27
+1055235,Excelsior,Utrecht,1,1,2024-01-27
+1055236,Heracles,Ajax,2,4,2024-01-27
+1055237,Heerenveen,AZ Alkmaar,2,2,2024-01-28
+1055239,Feyenoord,Twente,0,0,2024-01-28
+1055238,GO Ahead Eagles,NEC Nijmegen,2,2,2024-01-28
+1055240,FC Volendam,Fortuna Sittard,0,1,2024-01-28
+1055241,Almere City FC,Excelsior,2,1,2024-02-02
+1055242,Twente,Waalwijk,3,0,2024-02-03
+1055243,Fortuna Sittard,Heerenveen,3,3,2024-02-03
+1055244,Ajax,PSV Eindhoven,1,1,2024-02-03
+1055245,NEC Nijmegen,Heracles,3,1,2024-02-03
+1055246,Vitesse,GO Ahead Eagles,0,2,2024-02-04
+1055247,AZ Alkmaar,Feyenoord,0,1,2024-02-04
+1055248,Utrecht,FC Volendam,4,2,2024-02-04
+1055249,Sparta Rotterdam,PEC Zwolle,0,2,2024-02-04
+1055250,Waalwijk,NEC Nijmegen,2,0,2024-02-09
+1055256,Excelsior,Twente,0,3,2024-02-10
+1055253,Almere City FC,AZ Alkmaar,0,0,2024-02-10
+1055251,Heracles,Vitesse,3,2,2024-02-10
+1055255,GO Ahead Eagles,PEC Zwolle,1,1,2024-02-11
+1055257,Utrecht,Fortuna Sittard,4,0,2024-02-11
+1055258,Heerenveen,Ajax,3,2,2024-02-11
+1055252,FC Volendam,PSV Eindhoven,1,5,2024-02-11
+1055254,Feyenoord,Sparta Rotterdam,2,0,2024-02-11
+1055263,PSV Eindhoven,Heracles,2,0,2024-02-16
+1055266,Fortuna Sittard,AZ Alkmaar,1,2,2024-02-17
+1055259,Sparta Rotterdam,Excelsior,4,2,2024-02-17
+1055262,PEC Zwolle,Almere City FC,0,1,2024-02-17
+1055261,Heerenveen,GO Ahead Eagles,0,2,2024-02-17
+1055265,Twente,Utrecht,0,1,2024-02-18
+1055264,Ajax,NEC Nijmegen,2,2,2024-02-18
+1055267,Vitesse,FC Volendam,1,1,2024-02-18
+1055260,Feyenoord,Waalwijk,1,0,2024-02-18
+1055271,Utrecht,Heracles,1,0,2024-02-23
+1055269,Waalwijk,Fortuna Sittard,0,1,2024-02-24
+1055274,PEC Zwolle,PSV Eindhoven,1,7,2024-02-24
+1055272,NEC Nijmegen,Sparta Rotterdam,2,0,2024-02-24
+1055268,Excelsior,Vitesse,1,2,2024-02-25
+1055275,Twente,GO Ahead Eagles,3,0,2024-02-25
+1055273,Almere City FC,Feyenoord,0,2,2024-02-25
+1055276,AZ Alkmaar,Ajax,2,0,2024-02-25
+1055270,FC Volendam,Heerenveen,0,4,2024-02-25
+1055277,FC Volendam,NEC Nijmegen,2,5,2024-03-01
+1055279,GO Ahead Eagles,Waalwijk,1,0,2024-03-02
+1055282,Vitesse,Twente,1,2,2024-03-02
+1055281,Sparta Rotterdam,AZ Alkmaar,1,1,2024-03-02
+1055283,Ajax,Utrecht,2,0,2024-03-03
+1055278,PSV Eindhoven,Feyenoord,2,2,2024-03-03
+1055284,Heerenveen,PEC Zwolle,2,0,2024-03-03
+1055285,Fortuna Sittard,Excelsior,5,2,2024-03-03
+1055280,Heracles,Almere City FC,2,2,2024-03-03
+1055288,GO Ahead Eagles,PSV Eindhoven,0,1,2024-03-08
+1055293,Twente,Sparta Rotterdam,2,1,2024-03-09
+1055286,Almere City FC,Utrecht,1,1,2024-03-09
+1055291,Waalwijk,Vitesse,3,1,2024-03-09
+1055294,AZ Alkmaar,Excelsior,4,0,2024-03-10
+1055289,PEC Zwolle,FC Volendam,1,1,2024-03-10
+1055292,Ajax,Fortuna Sittard,2,2,2024-03-10
+1055290,NEC Nijmegen,Heerenveen,2,0,2024-03-10
+1055287,Feyenoord,Heracles,3,0,2024-03-10
+1055299,Heracles,GO Ahead Eagles,2,0,2024-03-15
+1055295,Fortuna Sittard,PEC Zwolle,3,1,2024-03-16
+1055296,Excelsior,Waalwijk,1,1,2024-03-16
+1055298,Vitesse,Almere City FC,1,1,2024-03-16
+1055302,FC Volendam,AZ Alkmaar,0,4,2024-03-17
+1055297,Utrecht,NEC Nijmegen,1,0,2024-03-17
+1055300,Heerenveen,Feyenoord,2,3,2024-03-17
+1055303,Sparta Rotterdam,Ajax,2,2,2024-03-17
+1055301,PSV Eindhoven,Twente,1,0,2024-03-17
+1055310,NEC Nijmegen,PSV Eindhoven,3,1,2024-03-30
+1055312,Sparta Rotterdam,Fortuna Sittard,4,0,2024-03-30
+1055305,GO Ahead Eagles,Excelsior,3,0,2024-03-30
+1055308,Waalwijk,Heerenveen,1,1,2024-03-30
+1055307,AZ Alkmaar,Vitesse,2,0,2024-03-30
+1055309,PEC Zwolle,Ajax,1,3,2024-03-31
+1055304,Feyenoord,Utrecht,4,2,2024-03-31
+1055311,Twente,Heracles,1,0,2024-03-31
+1055306,Almere City FC,FC Volendam,1,1,2024-03-31
+1055320,Vitesse,Sparta Rotterdam,1,4,2024-04-02
+1055315,Excelsior,PSV Eindhoven,0,2,2024-04-02
+1055321,Fortuna Sittard,NEC Nijmegen,1,1,2024-04-02
+1055319,Heracles,AZ Alkmaar,5,0,2024-04-03
+1055317,Utrecht,PEC Zwolle,5,1,2024-04-03
+1055316,Heerenveen,Twente,3,3,2024-04-03
+1055313,FC Volendam,Feyenoord,0,0,2024-04-04
+1055314,Waalwijk,Almere City FC,0,0,2024-04-04
+1055318,Ajax,GO Ahead Eagles,1,1,2024-04-04
+1055330,Sparta Rotterdam,Heracles,1,2,2024-04-06
+1055326,PSV Eindhoven,AZ Alkmaar,5,1,2024-04-06
+1055325,PEC Zwolle,Excelsior,2,1,2024-04-06
+1055329,Twente,Fortuna Sittard,2,0,2024-04-06
+1055327,Vitesse,NEC Nijmegen,0,3,2024-04-07
+1055322,Feyenoord,Ajax,6,0,2024-04-07
+1055328,GO Ahead Eagles,Almere City FC,1,1,2024-04-07
+1055323,FC Volendam,Waalwijk,3,2,2024-04-07
+1055324,Heerenveen,Utrecht,2,3,2024-04-07
+1055331,Excelsior,FC Volendam,4,0,2024-04-12
+1055333,PSV Eindhoven,Vitesse,6,0,2024-04-13
+1055336,AZ Alkmaar,Waalwijk,3,2,2024-04-13
+1055334,Almere City FC,Sparta Rotterdam,2,3,2024-04-13
+1055337,Heracles,Heerenveen,0,2,2024-04-14
+1055332,Fortuna Sittard,Feyenoord,0,1,2024-04-14
+1055338,Utrecht,GO Ahead Eagles,2,1,2024-04-14
+1055339,Ajax,Twente,2,1,2024-04-14
+1055335,NEC Nijmegen,PEC Zwolle,2,2,2024-04-14
+1055340,Twente,Almere City FC,3,1,2024-04-24
+1055345,Ajax,Excelsior,2,2,2024-04-24
+1055342,Heerenveen,PSV Eindhoven,0,8,2024-04-25
+1055341,GO Ahead Eagles,Feyenoord,1,3,2024-04-25
+1055344,PEC Zwolle,Heracles,3,1,2024-04-28
+1055343,NEC Nijmegen,AZ Alkmaar,0,3,2024-04-28
+1055348,Waalwijk,Utrecht,2,2,2024-04-28
+1055347,Sparta Rotterdam,FC Volendam,1,0,2024-04-28
+1055346,Vitesse,Fortuna Sittard,3,2,2024-04-28
+1055349,Fortuna Sittard,GO Ahead Eagles,0,0,2024-05-03
+1055350,Almere City FC,Heerenveen,1,1,2024-05-03
+1055352,PSV Eindhoven,Sparta Rotterdam,4,2,2024-05-05
+1055354,Heracles,Waalwijk,0,5,2024-05-05
+1055353,Utrecht,Vitesse,1,0,2024-05-05
+1055355,FC Volendam,Ajax,1,4,2024-05-05
+1055351,AZ Alkmaar,Twente,2,1,2024-05-05
+1055357,Feyenoord,PEC Zwolle,5,0,2024-05-05
+1055356,Excelsior,NEC Nijmegen,0,3,2024-05-06
+1055358,Ajax,Almere City FC,3,0,2024-05-12
+1055359,Excelsior,Heracles,4,0,2024-05-12
+1055362,Fortuna Sittard,PSV Eindhoven,1,1,2024-05-12
+1055361,Utrecht,Sparta Rotterdam,0,1,2024-05-12
+1055366,Heerenveen,Vitesse,1,3,2024-05-12
+1055363,GO Ahead Eagles,AZ Alkmaar,0,3,2024-05-12
+1055364,NEC Nijmegen,Feyenoord,2,3,2024-05-12
+1055360,Twente,FC Volendam,7,2,2024-05-12
+1055365,Waalwijk,PEC Zwolle,1,1,2024-05-12
+1200150,NAC Breda,Roda,3,1,2024-05-13
+1200152,Emmen,Dordrecht,2,2,2024-05-14
+1200154,De Graafschap,ADO Den Haag,2,3,2024-05-14
+1200151,Roda,NAC Breda,0,5,2024-05-17
+1200153,Dordrecht,Emmen,0,1,2024-05-18
+1200155,ADO Den Haag,De Graafschap,2,2,2024-05-18
+1055372,PEC Zwolle,Twente,1,2,2024-05-19
+1055373,PSV Eindhoven,Waalwijk,3,1,2024-05-19
+1055375,Vitesse,Ajax,2,2,2024-05-19
+1055368,AZ Alkmaar,Utrecht,3,3,2024-05-19
+1055371,Heracles,Fortuna Sittard,0,0,2024-05-19
+1055370,Feyenoord,Excelsior,4,0,2024-05-19
+1055369,FC Volendam,GO Ahead Eagles,1,2,2024-05-19
+1055367,Almere City FC,NEC Nijmegen,1,4,2024-05-19
+1055374,Sparta Rotterdam,Heerenveen,2,1,2024-05-19
+1200649,NAC Breda,Emmen,1,1,2024-05-21
+1200719,ADO Den Haag,Excelsior,1,2,2024-05-22
+1200717,NEC Nijmegen,GO Ahead Eagles,1,2,2024-05-23
+1200718,Utrecht,Sparta Rotterdam,3,1,2024-05-23
+1200650,Emmen,NAC Breda,0,3,2024-05-25
+1200720,Excelsior,ADO Den Haag,7,1,2024-05-25
+1201079,Utrecht,GO Ahead Eagles,1,2,2024-05-26
+1201219,NAC Breda,Excelsior,6,2,2024-05-28
+1201220,Excelsior,NAC Breda,4,1,2024-06-02
+1213441,Groningen,NAC Breda,4,1,2024-08-09
+1213442,Feyenoord,Willem II,1,1,2024-08-10
+1213443,NEC Nijmegen,Twente,1,2,2024-08-10
+1213444,Almere City FC,AZ Alkmaar,0,1,2024-08-10
+1213445,PSV Eindhoven,Waalwijk,5,1,2024-08-10
+1213446,Sparta Rotterdam,Heracles,0,0,2024-08-11
+1213447,Utrecht,PEC Zwolle,1,0,2024-08-11
+1213448,GO Ahead Eagles,Fortuna Sittard,0,2,2024-08-11
+1213449,Ajax,Heerenveen,1,0,2024-08-11
+1213450,Fortuna Sittard,Almere City FC,3,0,2024-08-16
+1213451,Heerenveen,Utrecht,1,1,2024-08-17
+1213452,Twente,Sparta Rotterdam,1,1,2024-08-17
+1213453,AZ Alkmaar,NEC Nijmegen,1,0,2024-08-17
+1213454,Waalwijk,Groningen,1,2,2024-08-17
+1213455,Heracles,PSV Eindhoven,1,3,2024-08-18
+1213456,PEC Zwolle,Feyenoord,1,5,2024-08-18
+1213457,Willem II,GO Ahead Eagles,2,0,2024-08-18
+1213458,NAC Breda,Ajax,2,1,2024-08-18
+1213459,NEC Nijmegen,PEC Zwolle,1,0,2024-08-24
+1213460,Almere City FC,PSV Eindhoven,1,7,2024-08-24
+1213461,NAC Breda,Utrecht,1,2,2024-08-24
+1213464,Groningen,AZ Alkmaar,0,0,2024-08-25
+1213465,Heracles,Willem II,1,1,2024-08-25
+1213466,Sparta Rotterdam,Feyenoord,1,1,2024-08-25
+1213467,GO Ahead Eagles,Waalwijk,2,0,2024-08-25
+1213468,Waalwijk,AZ Alkmaar,0,3,2024-08-30
+1213469,Almere City FC,Groningen,1,1,2024-08-31
+1213470,Fortuna Sittard,NEC Nijmegen,0,3,2024-08-31
+1213471,Heerenveen,NAC Breda,4,0,2024-08-31
+1213472,Willem II,Sparta Rotterdam,1,2,2024-08-31
+1213473,Utrecht,Twente,2,1,2024-09-01
+1213475,PEC Zwolle,Heracles,3,0,2024-09-01
+1213476,PSV Eindhoven,GO Ahead Eagles,3,0,2024-09-01
+1213481,PSV Eindhoven,NEC Nijmegen,2,0,2024-09-14
+1213477,Twente,PEC Zwolle,1,1,2024-09-14
+1213478,Groningen,Feyenoord,2,2,2024-09-14
+1213479,NAC Breda,Fortuna Sittard,1,0,2024-09-14
+1213480,AZ Alkmaar,Heerenveen,9,1,2024-09-14
+1213482,Sparta Rotterdam,GO Ahead Eagles,1,2,2024-09-15
+1213484,Willem II,Waalwijk,3,0,2024-09-15
+1213485,Heracles,Almere City FC,0,0,2024-09-15
+1213462,Twente,Heerenveen,2,0,2024-09-17
+1213463,Ajax,Fortuna Sittard,5,0,2024-09-18
+1213486,PEC Zwolle,AZ Alkmaar,1,2,2024-09-20
+1213487,Utrecht,Willem II,3,2,2024-09-21
+1213488,Waalwijk,Sparta Rotterdam,1,2,2024-09-21
+1213489,GO Ahead Eagles,Ajax,1,1,2024-09-21
+1213490,NEC Nijmegen,Heracles,1,2,2024-09-21
+1213491,Heerenveen,Groningen,2,1,2024-09-22
+1213493,Feyenoord,NAC Breda,2,0,2024-09-22
+1213492,Almere City FC,Twente,0,5,2024-09-22
+1213494,Fortuna Sittard,PSV Eindhoven,1,3,2024-09-22
+1213495,Heracles,Heerenveen,2,1,2024-09-27
+1213499,Willem II,PSV Eindhoven,0,2,2024-09-28
+1213497,NEC Nijmegen,Feyenoord,1,1,2024-09-28
+1213498,Sparta Rotterdam,Fortuna Sittard,1,1,2024-09-28
+1213500,PEC Zwolle,Almere City FC,1,0,2024-09-29
+1213501,Groningen,GO Ahead Eagles,0,1,2024-09-29
+1213496,Twente,NAC Breda,1,0,2024-09-29
+1213502,Waalwijk,Ajax,0,2,2024-09-29
+1213503,AZ Alkmaar,Utrecht,1,2,2024-09-29
+1213504,Almere City FC,Willem II,0,1,2024-10-04
+1213506,NAC Breda,NEC Nijmegen,1,0,2024-10-05
+1213507,PSV Eindhoven,Sparta Rotterdam,2,1,2024-10-05
+1213508,Utrecht,Waalwijk,3,2,2024-10-05
+1213511,GO Ahead Eagles,Heracles,4,1,2024-10-06
+1213509,Feyenoord,Twente,2,1,2024-10-06
+1213505,Heerenveen,PEC Zwolle,1,1,2024-10-06
+1213510,Ajax,Groningen,3,1,2024-10-06
+1213512,Fortuna Sittard,AZ Alkmaar,1,0,2024-10-06
+1213513,Sparta Rotterdam,Almere City FC,2,2,2024-10-19
+1213514,AZ Alkmaar,PSV Eindhoven,1,2,2024-10-19
+1213515,NEC Nijmegen,Heerenveen,3,0,2024-10-19
+1213516,Waalwijk,Twente,2,2,2024-10-19
+1213517,GO Ahead Eagles,Feyenoord,1,5,2024-10-19
+1213518,Willem II,Fortuna Sittard,0,0,2024-10-20
+1213519,Groningen,Utrecht,0,1,2024-10-20
+1213520,Heracles,Ajax,3,4,2024-10-20
+1213521,PEC Zwolle,NAC Breda,1,2,2024-10-20
+1213522,Almere City FC,NEC Nijmegen,1,0,2024-10-25
+1213523,Fortuna Sittard,Groningen,1,0,2024-10-26
+1213525,PSV Eindhoven,PEC Zwolle,6,0,2024-10-26
+1213524,NAC Breda,Waalwijk,4,1,2024-10-26
+1213526,Heerenveen,Sparta Rotterdam,2,0,2024-10-26
+1213527,Utrecht,Feyenoord,0,2,2024-10-27
+1213529,Twente,Heracles,5,0,2024-10-27
+1213530,Ajax,Willem II,1,0,2024-10-27
+1213528,AZ Alkmaar,GO Ahead Eagles,2,2,2024-10-27
+1213474,Feyenoord,Ajax,0,2,2024-10-30
+1213533,Willem II,Twente,0,1,2024-11-02
+1213534,Ajax,PSV Eindhoven,3,2,2024-11-02
+1213532,Heracles,NAC Breda,2,0,2024-11-02
+1213535,Fortuna Sittard,Heerenveen,3,0,2024-11-02
+1213531,Feyenoord,AZ Alkmaar,3,2,2024-11-02
+1213536,GO Ahead Eagles,PEC Zwolle,2,2,2024-11-03
+1213537,NEC Nijmegen,Groningen,6,0,2024-11-03
+1213538,Sparta Rotterdam,Utrecht,1,4,2024-11-03
+1213539,Waalwijk,Almere City FC,2,0,2024-11-03
+1213540,Utrecht,Heracles,1,0,2024-11-08
+1213541,Groningen,Sparta Rotterdam,1,0,2024-11-09
+1213542,PEC Zwolle,Fortuna Sittard,3,1,2024-11-09
+1213543,NAC Breda,PSV Eindhoven,0,3,2024-11-09
+1213544,Waalwijk,NEC Nijmegen,0,3,2024-11-09
+1213545,Almere City FC,Feyenoord,1,4,2024-11-10
+1213547,Heerenveen,GO Ahead Eagles,1,0,2024-11-10
+1213546,Twente,Ajax,2,2,2024-11-10
+1213548,AZ Alkmaar,Willem II,1,2,2024-11-10
+1213550,GO Ahead Eagles,Almere City FC,3,0,2024-11-23
+1213552,Heracles,Waalwijk,2,2,2024-11-23
+1213551,Feyenoord,Heerenveen,3,0,2024-11-23
+1213549,PSV Eindhoven,Groningen,5,0,2024-11-23
+1213553,Fortuna Sittard,Twente,1,2,2024-11-23
+1213554,NEC Nijmegen,Utrecht,1,2,2024-11-24
+1213556,Willem II,NAC Breda,2,2,2024-11-24
+1213555,Sparta Rotterdam,AZ Alkmaar,1,2,2024-11-24
+1213557,Ajax,PEC Zwolle,2,0,2024-11-24
+1213558,Heerenveen,Waalwijk,1,1,2024-11-29
+1213559,NAC Breda,Almere City FC,1,0,2024-11-30
+1213560,Groningen,Willem II,2,0,2024-11-30
+1213561,Feyenoord,Fortuna Sittard,1,1,2024-11-30
+1213562,PEC Zwolle,Sparta Rotterdam,1,0,2024-11-30
+1213563,Utrecht,PSV Eindhoven,2,5,2024-12-01
+1213564,AZ Alkmaar,Heracles,1,0,2024-12-01
+1213565,Twente,GO Ahead Eagles,3,2,2024-12-01
+1213566,NEC Nijmegen,Ajax,1,2,2024-12-01
+1213483,Ajax,Utrecht,2,2,2024-12-04
+1213572,PSV Eindhoven,Twente,6,1,2024-12-06
+1213570,GO Ahead Eagles,NEC Nijmegen,5,0,2024-12-07
+1213574,Sparta Rotterdam,NAC Breda,0,2,2024-12-07
+1213573,Waalwijk,Feyenoord,2,3,2024-12-07
+1213571,Heracles,Fortuna Sittard,2,2,2024-12-07
+1213569,Groningen,PEC Zwolle,0,0,2024-12-08
+1213575,Willem II,Heerenveen,1,2,2024-12-08
+1213568,AZ Alkmaar,Ajax,2,1,2024-12-08
+1213567,Almere City FC,Utrecht,1,3,2024-12-08
+1213583,PEC Zwolle,Willem II,0,1,2024-12-13
+1213584,Heerenveen,PSV Eindhoven,1,0,2024-12-14
+1213580,Fortuna Sittard,Waalwijk,3,2,2024-12-14
+1213579,Feyenoord,Heracles,5,2,2024-12-14
+1213578,Utrecht,GO Ahead Eagles,3,3,2024-12-15
+1213581,NEC Nijmegen,Sparta Rotterdam,1,1,2024-12-15
+1213577,Twente,Groningen,2,0,2024-12-15
+1213576,Ajax,Almere City FC,3,0,2024-12-15
+1213582,NAC Breda,AZ Alkmaar,1,2,2024-12-15
+1213591,Waalwijk,PEC Zwolle,1,1,2024-12-20
+1213588,GO Ahead Eagles,NAC Breda,2,1,2024-12-21
+1213585,Almere City FC,Heerenveen,3,0,2024-12-21
+1213586,AZ Alkmaar,Twente,1,0,2024-12-21
+1213592,Sparta Rotterdam,Ajax,0,2,2024-12-22
+1213590,PSV Eindhoven,Feyenoord,3,0,2024-12-22
+1213587,Utrecht,Fortuna Sittard,2,5,2024-12-22
+1213593,Willem II,NEC Nijmegen,4,1,2024-12-22
+1213598,Fortuna Sittard,GO Ahead Eagles,0,3,2025-01-10
+1213599,Heracles,Sparta Rotterdam,1,1,2025-01-11
+1213594,Ajax,Waalwijk,2,1,2025-01-11
+1213601,PEC Zwolle,NEC Nijmegen,0,1,2025-01-11
+1213602,PSV Eindhoven,AZ Alkmaar,2,2,2025-01-11
+1213596,Twente,Willem II,6,2,2025-01-12
+1213595,Groningen,Almere City FC,0,0,2025-01-12
+1213597,Feyenoord,Utrecht,1,2,2025-01-12
+1213600,NAC Breda,Heerenveen,2,4,2025-01-12
+1213608,PEC Zwolle,PSV Eindhoven,3,1,2025-01-18
+1213604,Utrecht,AZ Alkmaar,0,0,2025-01-18
+1213611,Willem II,Feyenoord,1,1,2025-01-18
+1213605,GO Ahead Eagles,Groningen,2,1,2025-01-18
+1213607,NAC Breda,Twente,2,1,2025-01-19
+1213609,Heerenveen,Ajax,0,2,2025-01-19
+1213603,Almere City FC,Heracles,0,2,2025-01-19
+1213606,NEC Nijmegen,Fortuna Sittard,4,1,2025-01-19
+1213610,Sparta Rotterdam,Waalwijk,1,1,2025-01-19
+1213618,Heracles,Utrecht,1,1,2025-01-24
+1213619,PSV Eindhoven,NAC Breda,3,2,2025-01-25
+1213614,Groningen,Heerenveen,1,0,2025-01-25
+1213617,Fortuna Sittard,PEC Zwolle,1,4,2025-01-26
+1213620,Waalwijk,Willem II,2,0,2025-01-26
+1213613,AZ Alkmaar,Sparta Rotterdam,1,2,2025-01-26
+1213589,Heracles,Groningen,1,1,2025-01-28
+1213625,NAC Breda,Heracles,1,1,2025-01-31
+1213626,PEC Zwolle,Utrecht,3,3,2025-02-01
+1213627,Heerenveen,Fortuna Sittard,2,2,2025-02-01
+1213624,NEC Nijmegen,PSV Eindhoven,3,3,2025-02-01
+1213622,Almere City FC,Waalwijk,1,4,2025-02-02
+1213621,Ajax,Feyenoord,2,1,2025-02-02
+1213623,GO Ahead Eagles,Twente,2,2,2025-02-02
+1213628,Sparta Rotterdam,Groningen,1,0,2025-02-02
+1213629,Willem II,AZ Alkmaar,0,2,2025-02-02
+1213635,Heracles,GO Ahead Eagles,4,2,2025-02-08
+1213636,PSV Eindhoven,Willem II,1,1,2025-02-08
+1213631,Groningen,NEC Nijmegen,2,1,2025-02-08
+1213633,Feyenoord,Sparta Rotterdam,3,0,2025-02-08
+1213632,Utrecht,Almere City FC,0,1,2025-02-09
+1213634,Fortuna Sittard,Ajax,0,2,2025-02-09
+1213637,Waalwijk,NAC Breda,5,0,2025-02-09
+1213630,AZ Alkmaar,PEC Zwolle,2,0,2025-02-09
+1213638,Heerenveen,Twente,3,3,2025-02-09
+1213642,GO Ahead Eagles,Sparta Rotterdam,1,0,2025-02-14
+1213646,PSV Eindhoven,Utrecht,2,2,2025-02-15
+1213644,NAC Breda,Feyenoord,0,0,2025-02-15
+1213647,Willem II,Groningen,1,3,2025-02-15
+1213643,NEC Nijmegen,Almere City FC,2,2,2025-02-16
+1213645,PEC Zwolle,Heerenveen,1,1,2025-02-16
+1213641,Twente,Waalwijk,2,0,2025-02-16
+1213639,Ajax,Heracles,4,0,2025-02-16
+1213616,Feyenoord,Almere City FC,2,1,2025-02-22
+1213612,Ajax,GO Ahead Eagles,2,0,2025-02-23
+1213615,Twente,NEC Nijmegen,2,0,2025-02-23
+1213640,AZ Alkmaar,Fortuna Sittard,1,0,2025-02-23
+1213654,Waalwijk,Fortuna Sittard,1,2,2025-02-28
+1213650,Utrecht,NAC Breda,1,0,2025-03-01
+1213652,GO Ahead Eagles,PSV Eindhoven,3,2,2025-03-01
+1213649,Groningen,Twente,1,1,2025-03-01
+1213651,Feyenoord,NEC Nijmegen,0,0,2025-03-01
+1213655,Heerenveen,AZ Alkmaar,3,1,2025-03-02
+1213653,Heracles,PEC Zwolle,4,2,2025-03-02
+1213648,Almere City FC,Ajax,0,1,2025-03-02
+1213656,Sparta Rotterdam,Willem II,4,0,2025-03-02
+1213662,NAC Breda,Sparta Rotterdam,1,1,2025-03-07
+1213660,Fortuna Sittard,Heracles,1,0,2025-03-08
+1213664,PSV Eindhoven,Heerenveen,2,1,2025-03-08
+1213665,Willem II,Utrecht,2,3,2025-03-09
+1213663,PEC Zwolle,Ajax,0,1,2025-03-09
+1213661,NEC Nijmegen,GO Ahead Eagles,2,3,2025-03-09
+1213658,Twente,Almere City FC,1,0,2025-03-09
+1213667,Almere City FC,NAC Breda,1,1,2025-03-14
+1213670,Utrecht,NEC Nijmegen,0,1,2025-03-15
+1213674,Sparta Rotterdam,PEC Zwolle,1,1,2025-03-15
+1213672,Waalwijk,PSV Eindhoven,0,3,2025-03-15
+1213673,Heerenveen,Heracles,1,1,2025-03-15
+1213671,GO Ahead Eagles,Willem II,1,0,2025-03-16
+1213668,Groningen,Fortuna Sittard,1,0,2025-03-16
+1213669,Twente,Feyenoord,2,6,2025-03-16
+1213666,Ajax,AZ Alkmaar,2,2,2025-03-16
+1213680,NAC Breda,Groningen,1,1,2025-03-29
+1213683,Willem II,Almere City FC,0,2,2025-03-29
+1213677,Fortuna Sittard,Sparta Rotterdam,0,3,2025-03-29
+1213681,PEC Zwolle,Waalwijk,2,0,2025-03-29
+1213679,NEC Nijmegen,AZ Alkmaar,3,3,2025-03-29
+1213675,Utrecht,Heerenveen,2,0,2025-03-30
+1213682,PSV Eindhoven,Ajax,0,2,2025-03-30
+1213678,Heracles,Twente,2,1,2025-03-30
+1213676,Feyenoord,GO Ahead Eagles,3,2,2025-03-30
+1213657,AZ Alkmaar,Waalwijk,2,2,2025-04-01
+1213659,Feyenoord,Groningen,4,1,2025-04-02
+1213691,Heerenveen,Willem II,3,1,2025-04-04
+1213686,AZ Alkmaar,Feyenoord,0,1,2025-04-05
+1213688,Twente,Fortuna Sittard,1,1,2025-04-05
+1213687,Groningen,PSV Eindhoven,1,3,2025-04-05
+1213685,Almere City FC,PEC Zwolle,2,2,2025-04-05
+1213690,Waalwijk,Heracles,0,0,2025-04-06
+1213689,GO Ahead Eagles,Utrecht,2,2,2025-04-06
+1213692,Sparta Rotterdam,NEC Nijmegen,2,0,2025-04-06
+1213684,Ajax,NAC Breda,3,1,2025-04-06
+1213696,NEC Nijmegen,Waalwijk,2,1,2025-04-11
+1213694,Fortuna Sittard,Feyenoord,0,2,2025-04-12
+1213700,Sparta Rotterdam,Heerenveen,3,1,2025-04-12
+1213699,PSV Eindhoven,Almere City FC,5,0,2025-04-12
+1213697,NAC Breda,GO Ahead Eagles,1,1,2025-04-12
+1213693,Utrecht,Groningen,3,1,2025-04-13
+1213698,PEC Zwolle,Twente,1,1,2025-04-13
+1213695,Heracles,AZ Alkmaar,1,0,2025-04-13
+1213701,Willem II,Ajax,1,2,2025-04-13
+1213712,Heerenveen,Almere City FC,2,1,2025-04-19
+1213711,Utrecht,Ajax,4,0,2025-04-20
+1213705,Groningen,Heracles,4,1,2025-04-23
+1213704,AZ Alkmaar,NAC Breda,1,1,2025-04-24
+1213706,Twente,PSV Eindhoven,1,3,2025-04-24
+1213709,Waalwijk,Utrecht,0,4,2025-04-25
+1213707,Feyenoord,PEC Zwolle,4,0,2025-04-25
+1213708,Fortuna Sittard,Willem II,1,0,2025-04-27
+1213702,Ajax,Sparta Rotterdam,1,1,2025-04-27
+1213710,Heerenveen,NEC Nijmegen,1,0,2025-04-27
+1213703,Almere City FC,GO Ahead Eagles,0,0,2025-04-27
+1213719,NEC Nijmegen,Willem II,1,1,2025-05-03
+1213715,Heracles,Feyenoord,1,4,2025-05-03
+1213718,Groningen,Waalwijk,6,1,2025-05-03
+1213716,PSV Eindhoven,Fortuna Sittard,4,1,2025-05-03
+1213717,NAC Breda,PEC Zwolle,1,3,2025-05-04
+1213713,GO Ahead Eagles,AZ Alkmaar,0,3,2025-05-04
+1213714,Sparta Rotterdam,Twente,0,2,2025-05-04
+1213728,Willem II,Heracles,1,2,2025-05-09
+1213727,Waalwijk,Heerenveen,3,1,2025-05-10
+1213725,Fortuna Sittard,NAC Breda,1,0,2025-05-10
+1213721,Almere City FC,Sparta Rotterdam,0,3,2025-05-10
+1213726,PEC Zwolle,GO Ahead Eagles,1,1,2025-05-11
+1213724,Feyenoord,PSV Eindhoven,2,3,2025-05-11
+1213723,Twente,Utrecht,2,0,2025-05-11
+1213720,Ajax,NEC Nijmegen,0,3,2025-05-11
+1213722,AZ Alkmaar,Groningen,3,0,2025-05-11
+1375152,Den Bosch,Cambuur,1,0,2025-05-12
+1375154,Telstar,ADO Den Haag,2,0,2025-05-13
+1375156,De Graafschap,Dordrecht,0,0,2025-05-13
+1213737,Willem II,PEC Zwolle,1,2,2025-05-14
+1213736,PSV Eindhoven,Heracles,4,1,2025-05-14
+1213730,Groningen,Ajax,2,2,2025-05-14
+1213732,Utrecht,Sparta Rotterdam,1,1,2025-05-14
+1213733,Feyenoord,Waalwijk,2,0,2025-05-14
+1213734,GO Ahead Eagles,Heerenveen,1,0,2025-05-14
+1213735,NEC Nijmegen,NAC Breda,3,0,2025-05-14
+1213731,Twente,AZ Alkmaar,2,3,2025-05-14
+1213729,Almere City FC,Fortuna Sittard,1,1,2025-05-14
+1375153,Cambuur,Den Bosch,1,1,2025-05-16
+1375155,ADO Den Haag,Telstar,0,1,2025-05-17
+1375157,Dordrecht,De Graafschap,2,0,2025-05-17
+1213743,PEC Zwolle,Groningen,2,0,2025-05-18
+1213738,Ajax,Twente,2,0,2025-05-18
+1213739,AZ Alkmaar,Almere City FC,1,1,2025-05-18
+1213742,NAC Breda,Willem II,1,1,2025-05-18
+1213740,Fortuna Sittard,Utrecht,0,0,2025-05-18
+1213741,Heracles,NEC Nijmegen,1,2,2025-05-18
+1213745,Heerenveen,Feyenoord,2,0,2025-05-18
+1213744,Waalwijk,GO Ahead Eagles,5,3,2025-05-18
+1213746,Sparta Rotterdam,PSV Eindhoven,1,3,2025-05-18
+1375804,Den Bosch,Telstar,0,0,2025-05-20
+1375841,Dordrecht,Willem II,2,1,2025-05-21
+1375839,AZ Alkmaar,Heerenveen,4,1,2025-05-22
+1375840,Twente,NEC Nijmegen,3,2,2025-05-22
+1375803,Telstar,Den Bosch,2,1,2025-05-23
+1375842,Willem II,Dordrecht,3,2,2025-05-24
+1376257,AZ Alkmaar,Twente,3,2,2025-05-25
+1376436,Telstar,Willem II,2,2,2025-05-29
+1376437,Willem II,Telstar,1,3,2025-06-01
+1038421,Union St. Gilloise,Anderlecht,2,0,2023-07-28
+1038422,AS Eupen,KVC Westerlo,2,2,2023-07-29
+1038423,Charleroi,OH Leuven,1,1,2023-07-29
+1038424,RWDM,Genk,0,4,2023-07-29
+1038425,Antwerp,Cercle Brugge,1,0,2023-07-30
+1038426,Gent,Kortrijk,3,2,2023-07-30
+1038427,Club Brugge KV,KV Mechelen,1,1,2023-07-30
+1038428,St. Truiden,Standard Liege,1,0,2023-07-30
+1038429,Standard Liege,Union St. Gilloise,0,1,2023-08-04
+1038430,Genk,AS Eupen,0,1,2023-08-05
+1038431,Cercle Brugge,Charleroi,2,0,2023-08-05
+1038432,OH Leuven,RWDM,1,2,2023-08-05
+1038433,Anderlecht,Antwerp,1,0,2023-08-06
+1038434,KV Mechelen,Gent,0,1,2023-08-06
+1038435,KVC Westerlo,Club Brugge KV,0,1,2023-08-06
+1038436,Kortrijk,St. Truiden,0,1,2023-08-06
+1038437,Antwerp,Kortrijk,6,0,2023-08-11
+1038438,RWDM,KV Mechelen,1,0,2023-08-12
+1038439,Union St. Gilloise,OH Leuven,5,1,2023-08-12
+1038441,St. Truiden,Anderlecht,0,1,2023-08-13
+1038442,AS Eupen,Club Brugge KV,0,5,2023-08-13
+1038440,Cercle Brugge,Genk,0,1,2023-08-13
+1038443,Charleroi,Standard Liege,1,1,2023-08-13
+1038444,KVC Westerlo,Gent,1,3,2023-08-13
+1038445,OH Leuven,Antwerp,1,1,2023-08-18
+1038446,Standard Liege,Cercle Brugge,0,1,2023-08-19
+1038448,KV Mechelen,Union St. Gilloise,4,0,2023-08-19
+1038449,Anderlecht,KVC Westerlo,2,1,2023-08-20
+1038450,Gent,St. Truiden,2,2,2023-08-20
+1038447,Genk,Charleroi,0,0,2023-08-20
+1038451,Club Brugge KV,RWDM,7,1,2023-08-20
+1038452,Kortrijk,AS Eupen,1,3,2023-08-20
+1038454,KVC Westerlo,KV Mechelen,2,3,2023-08-26
+1038455,AS Eupen,OH Leuven,3,1,2023-08-26
+1038456,Kortrijk,Standard Liege,1,1,2023-08-26
+1038459,St. Truiden,Cercle Brugge,0,2,2023-08-27
+1038460,Anderlecht,Charleroi,2,1,2023-08-27
+1038461,OH Leuven,Kortrijk,3,0,2023-09-01
+1038462,Cercle Brugge,KVC Westerlo,2,1,2023-09-02
+1038463,KV Mechelen,AS Eupen,1,0,2023-09-02
+1038464,Standard Liege,RWDM,1,1,2023-09-02
+1038465,Gent,Club Brugge KV,2,1,2023-09-03
+1038466,Union St. Gilloise,Antwerp,2,2,2023-09-03
+1038467,Genk,Anderlecht,1,1,2023-09-03
+1038468,Charleroi,St. Truiden,1,1,2023-09-03
+1038469,KVC Westerlo,Antwerp,0,3,2023-09-15
+1038470,RWDM,Cercle Brugge,2,1,2023-09-16
+1038471,Union St. Gilloise,Genk,0,2,2023-09-16
+1038472,Club Brugge KV,Charleroi,4,2,2023-09-16
+1038473,AS Eupen,Standard Liege,1,3,2023-09-17
+1038474,Kortrijk,Anderlecht,2,2,2023-09-17
+1038475,OH Leuven,Gent,1,1,2023-09-17
+1038476,St. Truiden,KV Mechelen,2,0,2023-09-17
+1038478,Standard Liege,KVC Westerlo,0,0,2023-09-22
+1038484,Charleroi,Kortrijk,1,0,2023-09-23
+1038483,KV Mechelen,OH Leuven,1,2,2023-09-23
+1038481,Antwerp,RWDM,0,0,2023-09-23
+1038479,Genk,St. Truiden,3,3,2023-09-24
+1038482,Cercle Brugge,Union St. Gilloise,0,2,2023-09-24
+1038477,Anderlecht,Club Brugge KV,1,1,2023-09-24
+1038480,Gent,AS Eupen,2,1,2023-09-24
+1038453,Antwerp,Gent,0,0,2023-09-27
+1038457,RWDM,Union St. Gilloise,2,3,2023-09-28
+1038458,Club Brugge KV,Genk,1,1,2023-09-28
+1038488,Kortrijk,Cercle Brugge,2,1,2023-09-29
+1038492,AS Eupen,Anderlecht,1,3,2023-09-30
+1038487,OH Leuven,Standard Liege,1,2,2023-09-30
+1038491,KV Mechelen,Antwerp,0,0,2023-09-30
+1038490,Union St. Gilloise,Charleroi,3,1,2023-10-01
+1038486,Genk,KVC Westerlo,3,3,2023-10-01
+1038485,Club Brugge KV,St. Truiden,1,1,2023-10-01
+1038489,RWDM,Gent,1,1,2023-10-01
+1038500,Charleroi,RWDM,2,1,2023-10-06
+1038497,Cercle Brugge,OH Leuven,3,2,2023-10-07
+1038499,KVC Westerlo,Kortrijk,1,0,2023-10-07
+1038493,Anderlecht,KV Mechelen,3,1,2023-10-07
+1038494,Standard Liege,Club Brugge KV,2,1,2023-10-08
+1038496,Antwerp,AS Eupen,4,1,2023-10-08
+1038495,Gent,Genk,1,1,2023-10-08
+1038498,St. Truiden,Union St. Gilloise,0,4,2023-10-08
+1038507,Union St. Gilloise,AS Eupen,4,1,2023-10-20
+1038504,Kortrijk,Club Brugge KV,1,0,2023-10-21
+1038505,RWDM,KVC Westerlo,1,1,2023-10-21
+1038508,Charleroi,Antwerp,3,2,2023-10-21
+1038502,Genk,KV Mechelen,4,0,2023-10-22
+1038506,Cercle Brugge,Gent,2,0,2023-10-22
+1038501,Standard Liege,Anderlecht,3,2,2023-10-22
+1038503,OH Leuven,St. Truiden,4,0,2023-10-22
+1038514,St. Truiden,RWDM,2,1,2023-10-27
+1038513,KV Mechelen,Cercle Brugge,0,2,2023-10-28
+1038516,AS Eupen,Charleroi,2,0,2023-10-28
+1038510,Anderlecht,OH Leuven,5,1,2023-10-28
+1038509,Club Brugge KV,Antwerp,2,1,2023-10-29
+1038515,KVC Westerlo,Union St. Gilloise,1,3,2023-10-29
+1038511,Gent,Standard Liege,3,1,2023-10-29
+1038512,Kortrijk,Genk,0,3,2023-10-29
+1038523,St. Truiden,AS Eupen,1,1,2023-11-03
+1038520,RWDM,Kortrijk,1,1,2023-11-04
+1038519,OH Leuven,KVC Westerlo,0,2,2023-11-04
+1038518,Antwerp,Genk,3,2,2023-11-04
+1038521,Cercle Brugge,Anderlecht,0,3,2023-11-05
+1038517,Standard Liege,KV Mechelen,1,1,2023-11-05
+1038522,Union St. Gilloise,Club Brugge KV,2,1,2023-11-05
+1038524,Charleroi,Gent,1,3,2023-11-05
+1038531,KVC Westerlo,St. Truiden,3,3,2023-11-10
+1038528,Antwerp,Standard Liege,6,0,2023-11-11
+1038532,AS Eupen,RWDM,1,3,2023-11-11
+1038530,KV Mechelen,Charleroi,1,0,2023-11-11
+1038525,Club Brugge KV,Cercle Brugge,0,0,2023-11-12
+1038526,Genk,OH Leuven,3,1,2023-11-12
+1038527,Gent,Anderlecht,1,1,2023-11-12
+1038529,Union St. Gilloise,Kortrijk,3,0,2023-11-12
+1038539,St. Truiden,Antwerp,1,1,2023-11-24
+1038538,Cercle Brugge,AS Eupen,2,0,2023-11-25
+1038540,Charleroi,KVC Westerlo,3,2,2023-11-25
+1038534,Standard Liege,Genk,1,0,2023-11-25
+1038535,Gent,Union St. Gilloise,1,1,2023-11-26
+1038536,OH Leuven,Club Brugge KV,0,1,2023-11-26
+1038533,Anderlecht,RWDM,2,1,2023-11-26
+1038537,Kortrijk,KV Mechelen,0,3,2023-11-26
+1038547,KVC Westerlo,Anderlecht,1,3,2023-12-01
+1038544,RWDM,Charleroi,0,0,2023-12-02
+1038548,AS Eupen,Kortrijk,1,1,2023-12-02
+1038543,Antwerp,OH Leuven,1,0,2023-12-02
+1038542,Genk,Gent,2,2,2023-12-03
+1038546,KV Mechelen,St. Truiden,0,2,2023-12-03
+1038541,Club Brugge KV,Standard Liege,2,0,2023-12-03
+1038545,Union St. Gilloise,Cercle Brugge,2,1,2023-12-03
+1038551,Kortrijk,KVC Westerlo,1,2,2023-12-08
+1038552,Cercle Brugge,Antwerp,1,3,2023-12-09
+1038554,St. Truiden,OH Leuven,1,1,2023-12-09
+1038550,Gent,RWDM,4,0,2023-12-09
+1038553,KV Mechelen,Club Brugge KV,0,0,2023-12-10
+1038556,AS Eupen,Genk,1,3,2023-12-10
+1038549,Anderlecht,Standard Liege,2,2,2023-12-10
+1038555,Charleroi,Union St. Gilloise,1,3,2023-12-10
+1038564,KVC Westerlo,AS Eupen,2,0,2023-12-15
+1038561,OH Leuven,Cercle Brugge,1,2,2023-12-16
+1038562,RWDM,St. Truiden,3,0,2023-12-16
+1038558,Standard Liege,Charleroi,0,0,2023-12-16
+1038557,Club Brugge KV,Gent,2,0,2023-12-17
+1038563,Union St. Gilloise,KV Mechelen,1,0,2023-12-17
+1038560,Antwerp,Anderlecht,1,1,2023-12-17
+1038559,Genk,Kortrijk,4,0,2023-12-17
+1038569,Cercle Brugge,Kortrijk,3,0,2023-12-20
+1038570,KV Mechelen,Standard Liege,3,0,2023-12-20
+1038566,Gent,OH Leuven,4,0,2023-12-21
+1038568,RWDM,Club Brugge KV,1,6,2023-12-22
+1038572,AS Eupen,Union St. Gilloise,1,2,2023-12-23
+1038571,St. Truiden,Charleroi,1,0,2023-12-23
+1038567,Antwerp,KVC Westerlo,2,2,2023-12-23
+1038565,Anderlecht,Genk,2,1,2023-12-23
+1038576,Genk,Antwerp,3,0,2023-12-26
+1038577,OH Leuven,AS Eupen,3,0,2023-12-26
+1038578,Kortrijk,Gent,0,2,2023-12-26
+1038579,KVC Westerlo,RWDM,3,0,2023-12-26
+1038573,Club Brugge KV,Union St. Gilloise,1,1,2023-12-26
+1038575,Standard Liege,St. Truiden,1,1,2023-12-27
+1038574,Anderlecht,Cercle Brugge,2,0,2023-12-27
+1038580,Charleroi,KV Mechelen,3,1,2023-12-27
+1038584,Gent,KV Mechelen,1,2,2024-01-19
+1038583,Genk,Cercle Brugge,1,1,2024-01-20
+1038582,Standard Liege,Kortrijk,0,1,2024-01-20
+1038581,Club Brugge KV,KVC Westerlo,3,0,2024-01-20
+1038585,Antwerp,Charleroi,4,1,2024-01-21
+1038588,Union St. Gilloise,St. Truiden,2,1,2024-01-21
+1038586,OH Leuven,Anderlecht,1,1,2024-01-21
+1038587,RWDM,AS Eupen,0,1,2024-01-24
+1038592,Cercle Brugge,Standard Liege,1,1,2024-01-26
+1038591,Kortrijk,OH Leuven,0,0,2024-01-27
+1038590,Gent,KVC Westerlo,2,2,2024-01-27
+1038595,Charleroi,Club Brugge KV,1,4,2024-01-27
+1038594,St. Truiden,Genk,1,1,2024-01-28
+1038596,AS Eupen,Antwerp,1,0,2024-01-28
+1038589,Anderlecht,Union St. Gilloise,2,2,2024-01-28
+1038593,KV Mechelen,RWDM,3,1,2024-01-28
+1038603,KVC Westerlo,Cercle Brugge,4,2,2024-01-30
+1038597,Club Brugge KV,Kortrijk,3,3,2024-01-30
+1038599,OH Leuven,Genk,2,1,2024-01-31
+1038604,Charleroi,AS Eupen,1,0,2024-01-31
+1038598,Standard Liege,Antwerp,0,1,2024-01-31
+1038600,Union St. Gilloise,RWDM,3,2,2024-01-31
+1038601,KV Mechelen,Anderlecht,2,2,2024-02-01
+1038602,St. Truiden,Gent,4,1,2024-02-01
+1038609,RWDM,Standard Liege,2,2,2024-02-03
+1038611,KVC Westerlo,OH Leuven,0,3,2024-02-03
+1038608,Kortrijk,Charleroi,1,0,2024-02-03
+1038606,Genk,Union St. Gilloise,0,1,2024-02-03
+1038607,Antwerp,Club Brugge KV,2,1,2024-02-04
+1038612,AS Eupen,KV Mechelen,0,1,2024-02-04
+1038605,Anderlecht,Gent,1,0,2024-02-04
+1038610,Cercle Brugge,St. Truiden,4,1,2024-02-04
+1038619,St. Truiden,Kortrijk,1,0,2024-02-09
+1038614,Standard Liege,OH Leuven,1,0,2024-02-10
+1038617,Union St. Gilloise,KVC Westerlo,2,2,2024-02-10
+1038613,Club Brugge KV,AS Eupen,4,0,2024-02-10
+1038616,RWDM,Antwerp,0,4,2024-02-11
+1038618,KV Mechelen,Genk,1,1,2024-02-11
+1038620,Charleroi,Anderlecht,1,3,2024-02-11
+1038615,Gent,Cercle Brugge,1,2,2024-02-11
+1038627,KVC Westerlo,Standard Liege,2,1,2024-02-16
+1038622,Genk,RWDM,3,1,2024-02-17
+1038624,OH Leuven,Charleroi,0,0,2024-02-17
+1038623,Antwerp,KV Mechelen,0,1,2024-02-17
+1038626,Cercle Brugge,Club Brugge KV,1,1,2024-02-18
+1038625,Kortrijk,Union St. Gilloise,1,3,2024-02-18
+1038621,Anderlecht,St. Truiden,4,1,2024-02-18
+1038628,AS Eupen,Gent,0,2,2024-02-18
+1038635,Charleroi,Genk,0,1,2024-02-23
+1038631,RWDM,OH Leuven,1,1,2024-02-24
+1038634,St. Truiden,KVC Westerlo,1,0,2024-02-24
+1038633,KV Mechelen,Kortrijk,3,0,2024-02-24
+1038629,Club Brugge KV,Anderlecht,1,2,2024-02-25
+1038630,Gent,Antwerp,2,2,2024-02-25
+1038632,Union St. Gilloise,Standard Liege,2,1,2024-02-25
+1038636,AS Eupen,Cercle Brugge,0,2,2024-02-25
+1038644,KVC Westerlo,Charleroi,0,1,2024-03-01
+1038643,Cercle Brugge,KV Mechelen,2,3,2024-03-02
+1038641,OH Leuven,Union St. Gilloise,0,2,2024-03-02
+1038638,Standard Liege,Gent,4,2,2024-03-02
+1038639,Genk,Club Brugge KV,0,3,2024-03-03
+1038640,Antwerp,St. Truiden,3,0,2024-03-03
+1038637,Anderlecht,AS Eupen,1,0,2024-03-03
+1038642,Kortrijk,RWDM,3,2,2024-03-03
+1038650,KV Mechelen,KVC Westerlo,3,1,2024-03-08
+1038647,Kortrijk,Antwerp,0,1,2024-03-09
+1038651,Charleroi,Cercle Brugge,0,0,2024-03-09
+1038648,RWDM,Anderlecht,0,3,2024-03-09
+1038646,Genk,Standard Liege,1,0,2024-03-10
+1038645,Club Brugge KV,OH Leuven,3,1,2024-03-10
+1038649,Union St. Gilloise,Gent,1,1,2024-03-10
+1038652,AS Eupen,St. Truiden,1,0,2024-03-10
+1038654,Standard Liege,AS Eupen,4,0,2024-03-16
+1038653,Anderlecht,Kortrijk,0,1,2024-03-16
+1038659,St. Truiden,Club Brugge KV,2,1,2024-03-17
+1038656,Antwerp,Union St. Gilloise,1,1,2024-03-17
+1038657,OH Leuven,KV Mechelen,1,0,2024-03-17
+1038660,KVC Westerlo,Genk,1,1,2024-03-17
+1038655,Gent,Charleroi,5,0,2024-03-17
+1038658,Cercle Brugge,RWDM,4,0,2024-03-17
+1186215,Gent,Standard Liege,5,1,2024-03-29
+1186216,OH Leuven,KV Mechelen,2,3,2024-03-30
+1186185,Anderlecht,Antwerp,1,0,2024-03-30
+1186217,St. Truiden,KVC Westerlo,2,0,2024-03-31
+1186186,Cercle Brugge,Club Brugge KV,1,1,2024-04-01
+1186187,Genk,Union St. Gilloise,1,0,2024-04-01
+1186218,KV Mechelen,St. Truiden,2,3,2024-04-05
+1186245,Charleroi,RWDM,0,0,2024-04-06
+1186219,Standard Liege,OH Leuven,0,0,2024-04-06
+1186188,Antwerp,Genk,0,1,2024-04-06
+1186189,Union St. Gilloise,Cercle Brugge,2,3,2024-04-07
+1186246,AS Eupen,Kortrijk,1,1,2024-04-07
+1186190,Club Brugge KV,Anderlecht,3,1,2024-04-07
+1186220,KVC Westerlo,Gent,0,3,2024-04-07
+1186221,St. Truiden,Standard Liege,3,3,2024-04-12
+1186247,RWDM,AS Eupen,3,1,2024-04-13
+1186222,KV Mechelen,KVC Westerlo,3,2,2024-04-13
+1186191,Genk,Cercle Brugge,1,1,2024-04-13
+1186192,Club Brugge KV,Antwerp,3,0,2024-04-14
+1186248,Kortrijk,Charleroi,1,2,2024-04-14
+1186193,Anderlecht,Union St. Gilloise,2,1,2024-04-14
+1186223,OH Leuven,Gent,2,1,2024-04-14
+1186224,OH Leuven,St. Truiden,1,0,2024-04-20
+1186225,KVC Westerlo,Standard Liege,3,3,2024-04-20
+1186226,Gent,KV Mechelen,3,1,2024-04-20
+1186194,Genk,Anderlecht,2,1,2024-04-20
+1186195,Cercle Brugge,Antwerp,0,1,2024-04-21
+1186249,Kortrijk,RWDM,2,4,2024-04-21
+1186196,Union St. Gilloise,Club Brugge KV,1,2,2024-04-21
+1186250,Charleroi,AS Eupen,1,0,2024-04-21
+1186227,KVC Westerlo,OH Leuven,1,1,2024-04-23
+1186229,Standard Liege,KV Mechelen,0,0,2024-04-23
+1186228,St. Truiden,Gent,0,2,2024-04-23
+1186197,Anderlecht,Cercle Brugge,3,0,2024-04-24
+1186198,Club Brugge KV,Genk,4,0,2024-04-24
+1186199,Antwerp,Union St. Gilloise,0,3,2024-04-25
+1186251,AS Eupen,Charleroi,1,2,2024-04-26
+1186230,KV Mechelen,OH Leuven,3,0,2024-04-27
+1186231,Standard Liege,St. Truiden,1,1,2024-04-27
+1186232,Gent,KVC Westerlo,3,2,2024-04-27
+1186200,Genk,Club Brugge KV,0,3,2024-04-28
+1186201,Cercle Brugge,Anderlecht,1,1,2024-04-28
+1186202,Union St. Gilloise,Antwerp,4,1,2024-04-28
+1186252,RWDM,Kortrijk,0,1,2024-04-28
+1186233,KVC Westerlo,St. Truiden,2,2,2024-05-03
+1186253,RWDM,Charleroi,1,3,2024-05-04
+1186234,KV Mechelen,Gent,2,4,2024-05-04
+1186203,Cercle Brugge,Genk,4,1,2024-05-04
+1186204,Antwerp,Club Brugge KV,1,2,2024-05-05
+1186235,OH Leuven,Standard Liege,3,1,2024-05-05
+1186205,Union St. Gilloise,Anderlecht,0,0,2024-05-05
+1186254,Kortrijk,AS Eupen,1,0,2024-05-05
+1186236,Standard Liege,KVC Westerlo,0,5,2024-05-10
+1186256,Charleroi,Kortrijk,3,1,2024-05-11
+1186255,AS Eupen,RWDM,2,0,2024-05-11
+1186206,Anderlecht,Genk,2,1,2024-05-11
+1186237,Gent,OH Leuven,0,1,2024-05-12
+1186238,St. Truiden,KV Mechelen,2,1,2024-05-12
+1186207,Antwerp,Cercle Brugge,1,2,2024-05-12
+1186208,Club Brugge KV,Union St. Gilloise,2,2,2024-05-13
+1186239,St. Truiden,OH Leuven,1,1,2024-05-17
+1186240,KVC Westerlo,KV Mechelen,0,2,2024-05-18
+1186241,Standard Liege,Gent,1,4,2024-05-18
+1186209,Cercle Brugge,Union St. Gilloise,1,2,2024-05-19
+1186210,Anderlecht,Club Brugge KV,0,1,2024-05-19
+1200702,Lommel United,Kortrijk,0,1,2024-05-19
+1186211,Genk,Antwerp,1,0,2024-05-20
+1186242,OH Leuven,KVC Westerlo,1,2,2024-05-25
+1186243,KV Mechelen,Standard Liege,3,2,2024-05-25
+1186244,Gent,St. Truiden,2,0,2024-05-25
+1200703,Kortrijk,Lommel United,4,2,2024-05-26
+1186214,Club Brugge KV,Cercle Brugge,0,0,2024-05-26
+1186213,Antwerp,Anderlecht,3,1,2024-05-26
+1186212,Union St. Gilloise,Genk,2,0,2024-05-26
+1201435,Genk,Gent,0,1,2024-06-02
+1213201,Club Brugge KV,KV Mechelen,1,1,2024-07-26
+1213202,Dender,Union St. Gilloise,0,0,2024-07-27
+1213203,Beerschot Wilrijk,OH Leuven,0,0,2024-07-27
+1213204,Anderlecht,St. Truiden,1,0,2024-07-27
+1213205,Genk,Standard Liege,0,0,2024-07-28
+1213206,Kortrijk,Gent,0,1,2024-07-28
+1213207,Charleroi,Antwerp,0,1,2024-07-28
+1213208,KVC Westerlo,Cercle Brugge,3,0,2024-07-28
+1213209,Union St. Gilloise,Beerschot Wilrijk,3,1,2024-08-02
+1213210,KV Mechelen,KVC Westerlo,2,4,2024-08-03
+1213211,OH Leuven,Genk,3,1,2024-08-03
+1213212,St. Truiden,Charleroi,1,4,2024-08-03
+1213213,Antwerp,Anderlecht,1,2,2024-08-04
+1213214,Cercle Brugge,Kortrijk,1,2,2024-08-04
+1213215,Standard Liege,Club Brugge KV,1,0,2024-08-04
+1213216,Gent,Dender,1,2,2024-08-04
+1213217,Standard Liege,KV Mechelen,0,0,2024-08-09
+1213218,Dender,Kortrijk,4,1,2024-08-10
+1213219,KVC Westerlo,Union St. Gilloise,4,3,2024-08-10
+1213220,Anderlecht,OH Leuven,1,1,2024-08-10
+1213221,Genk,Club Brugge KV,3,2,2024-08-11
+1213222,Antwerp,St. Truiden,6,1,2024-08-11
+1213223,Charleroi,Gent,1,0,2024-08-11
+1213224,Cercle Brugge,Beerschot Wilrijk,4,1,2024-08-11
+1213225,Union St. Gilloise,Charleroi,1,0,2024-08-16
+1213226,Beerschot Wilrijk,Genk,3,4,2024-08-17
+1213227,St. Truiden,Dender,3,3,2024-08-17
+1213228,KV Mechelen,Anderlecht,1,3,2024-08-17
+1213229,Club Brugge KV,Antwerp,1,0,2024-08-18
+1213230,OH Leuven,Cercle Brugge,1,1,2024-08-18
+1213231,Kortrijk,Standard Liege,1,0,2024-08-18
+1213232,Gent,KVC Westerlo,4,1,2024-08-18
+1213235,KVC Westerlo,OH Leuven,1,1,2024-08-24
+1213236,Antwerp,KV Mechelen,0,1,2024-08-24
+1213237,Dender,Club Brugge KV,1,2,2024-08-25
+1213238,St. Truiden,Union St. Gilloise,0,0,2024-08-25
+1213239,Standard Liege,Beerschot Wilrijk,1,0,2024-08-25
+1213240,Charleroi,Kortrijk,1,0,2024-08-25
+1213241,Genk,KVC Westerlo,1,0,2024-08-30
+1213242,KV Mechelen,Charleroi,5,2,2024-08-31
+1213243,Beerschot Wilrijk,Dender,1,2,2024-08-31
+1213244,OH Leuven,Standard Liege,2,0,2024-08-31
+1213245,Club Brugge KV,Cercle Brugge,3,0,2024-09-01
+1213246,Gent,Antwerp,1,1,2024-09-01
+1213247,Union St. Gilloise,Anderlecht,0,0,2024-09-01
+1213248,Kortrijk,St. Truiden,1,1,2024-09-01
+1213249,Dender,Standard Liege,0,2,2024-09-13
+1213250,Cercle Brugge,Genk,2,3,2024-09-14
+1213251,Kortrijk,Club Brugge KV,0,3,2024-09-14
+1213253,Anderlecht,KVC Westerlo,2,2,2024-09-14
+1213252,Antwerp,Union St. Gilloise,2,0,2024-09-15
+1213254,St. Truiden,OH Leuven,2,1,2024-09-15
+1213255,Charleroi,Beerschot Wilrijk,3,0,2024-09-15
+1213256,Gent,KV Mechelen,2,0,2024-09-15
+1213233,Anderlecht,Genk,0,2,2024-09-17
+1213260,Standard Liege,Union St. Gilloise,0,0,2024-09-20
+1213261,Beerschot Wilrijk,St. Truiden,0,3,2024-09-21
+1213264,KVC Westerlo,Antwerp,1,2,2024-09-21
+1213258,Anderlecht,Charleroi,0,0,2024-09-21
+1213257,Club Brugge KV,Gent,2,4,2024-09-22
+1213263,KV Mechelen,Cercle Brugge,2,0,2024-09-22
+1213259,Genk,Dender,4,0,2024-09-22
+1213262,OH Leuven,Kortrijk,1,1,2024-09-22
+1213234,Cercle Brugge,Gent,2,1,2024-09-26
+1213271,Charleroi,Club Brugge KV,1,1,2024-09-27
+1213266,Genk,KV Mechelen,2,1,2024-09-28
+1213269,Standard Liege,KVC Westerlo,1,2,2024-09-28
+1213272,Dender,Anderlecht,1,1,2024-09-28
+1213268,Antwerp,Beerschot Wilrijk,4,0,2024-09-29
+1213265,Union St. Gilloise,Kortrijk,3,0,2024-09-29
+1213267,Gent,OH Leuven,3,0,2024-09-29
+1213270,Cercle Brugge,St. Truiden,1,1,2024-09-29
+1213279,KVC Westerlo,Beerschot Wilrijk,2,2,2024-10-04
+1213277,KV Mechelen,OH Leuven,5,0,2024-10-05
+1213276,Kortrijk,Genk,2,1,2024-10-05
+1213280,Dender,Charleroi,1,0,2024-10-05
+1213274,Anderlecht,Standard Liege,3,0,2024-10-06
+1213275,Antwerp,Cercle Brugge,3,0,2024-10-06
+1213273,Club Brugge KV,Union St. Gilloise,1,1,2024-10-06
+1213278,St. Truiden,Gent,1,1,2024-10-06
+1213284,Beerschot Wilrijk,Anderlecht,2,1,2024-10-18
+1213288,KVC Westerlo,Club Brugge KV,1,2,2024-10-19
+1213285,Cercle Brugge,Dender,0,0,2024-10-19
+1213281,Union St. Gilloise,Gent,0,0,2024-10-19
+1213282,Genk,St. Truiden,3,2,2024-10-20
+1213286,OH Leuven,Antwerp,1,1,2024-10-20
+1213283,Standard Liege,Charleroi,2,1,2024-10-20
+1213287,KV Mechelen,Kortrijk,3,0,2024-10-20
+1213293,Kortrijk,Beerschot Wilrijk,1,0,2024-10-25
+1213295,Charleroi,OH Leuven,0,2,2024-10-26
+1213296,Dender,KV Mechelen,2,5,2024-10-26
+1213294,St. Truiden,KVC Westerlo,2,0,2024-10-26
+1213289,Club Brugge KV,Anderlecht,2,1,2024-10-27
+1213292,Antwerp,Standard Liege,3,0,2024-10-27
+1213291,Gent,Genk,0,2,2024-10-27
+1213290,Union St. Gilloise,Cercle Brugge,1,3,2024-10-27
+1213304,KVC Westerlo,Dender,2,0,2024-11-01
+1213299,Standard Liege,St. Truiden,2,1,2024-11-02
+1213302,OH Leuven,Club Brugge KV,0,1,2024-11-02
+1213303,KV Mechelen,Union St. Gilloise,1,1,2024-11-02
+1213298,Genk,Antwerp,2,0,2024-11-03
+1213301,Cercle Brugge,Charleroi,2,0,2024-11-03
+1213297,Anderlecht,Kortrijk,4,0,2024-11-03
+1213300,Beerschot Wilrijk,Gent,0,0,2024-11-03
+1213310,St. Truiden,KV Mechelen,2,1,2024-11-08
+1213307,Kortrijk,Antwerp,1,2,2024-11-09
+1213312,Dender,OH Leuven,1,1,2024-11-09
+1213311,Charleroi,KVC Westerlo,1,0,2024-11-09
+1213309,Cercle Brugge,Anderlecht,0,5,2024-11-10
+1213306,Gent,Standard Liege,5,0,2024-11-10
+1213305,Union St. Gilloise,Genk,4,0,2024-11-10
+1213308,Beerschot Wilrijk,Club Brugge KV,2,2,2024-11-10
+1213316,Antwerp,Dender,1,1,2024-11-22
+1213313,Club Brugge KV,St. Truiden,7,0,2024-11-23
+1213317,Standard Liege,Cercle Brugge,1,0,2024-11-23
+1213315,Genk,Charleroi,3,0,2024-11-23
+1213319,KV Mechelen,Beerschot Wilrijk,3,0,2024-11-24
+1213318,OH Leuven,Union St. Gilloise,1,1,2024-11-24
+1213314,Anderlecht,Gent,6,0,2024-11-24
+1213320,KVC Westerlo,Kortrijk,4,0,2024-11-24
+1213323,Kortrijk,KV Mechelen,3,1,2024-11-29
+1213321,Club Brugge KV,Dender,4,1,2024-11-30
+1213328,Charleroi,Standard Liege,1,1,2024-11-30
+1213326,St. Truiden,Genk,2,2,2024-12-01
+1213325,OH Leuven,Anderlecht,0,0,2024-12-01
+1213324,Beerschot Wilrijk,Cercle Brugge,3,2,2024-12-01
+1213322,Union St. Gilloise,Antwerp,2,1,2024-12-01
+1213327,KVC Westerlo,Gent,2,2,2024-12-01
+1213330,Genk,Kortrijk,3,2,2024-12-07
+1213335,KV Mechelen,Club Brugge KV,1,2,2024-12-07
+1213333,Standard Liege,OH Leuven,1,1,2024-12-07
+1213331,Gent,St. Truiden,2,0,2024-12-07
+1213332,Antwerp,Charleroi,1,3,2024-12-08
+1213334,Cercle Brugge,Union St. Gilloise,0,0,2024-12-08
+1213329,Anderlecht,Beerschot Wilrijk,2,1,2024-12-08
+1213336,Dender,KVC Westerlo,1,0,2024-12-08
+1213343,KV Mechelen,Antwerp,1,1,2024-12-13
+1213341,Beerschot Wilrijk,Standard Liege,0,0,2024-12-14
+1213342,OH Leuven,Charleroi,1,0,2024-12-14
+1213340,Kortrijk,Dender,0,3,2024-12-14
+1213337,Club Brugge KV,Genk,2,0,2024-12-15
+1213338,Union St. Gilloise,KVC Westerlo,3,1,2024-12-15
+1213344,St. Truiden,Anderlecht,0,2,2024-12-15
+1213339,Gent,Cercle Brugge,1,1,2024-12-15
+1213350,KVC Westerlo,KV Mechelen,1,1,2024-12-20
+1213351,Charleroi,St. Truiden,2,1,2024-12-21
+1213352,Dender,Antwerp,1,3,2024-12-21
+1213348,Beerschot Wilrijk,Kortrijk,2,2,2024-12-21
+1213346,Genk,Anderlecht,2,0,2024-12-22
+1213347,Standard Liege,Gent,0,1,2024-12-22
+1213345,Union St. Gilloise,Club Brugge KV,2,2,2024-12-22
+1213349,Cercle Brugge,OH Leuven,1,0,2024-12-22
+1213356,Antwerp,Genk,2,2,2024-12-26
+1213353,Club Brugge KV,KVC Westerlo,4,3,2024-12-26
+1213357,Kortrijk,Charleroi,0,1,2024-12-26
+1213359,KV Mechelen,Standard Liege,0,0,2024-12-26
+1213355,Gent,Union St. Gilloise,1,3,2024-12-26
+1213358,OH Leuven,Beerschot Wilrijk,2,0,2024-12-27
+1213354,Anderlecht,Dender,2,3,2024-12-27
+1213360,St. Truiden,Cercle Brugge,1,1,2024-12-27
+1213363,Standard Liege,Kortrijk,1,0,2025-01-10
+1213366,KVC Westerlo,St. Truiden,1,2,2025-01-11
+1213362,Genk,OH Leuven,2,0,2025-01-11
+1213367,Charleroi,Union St. Gilloise,1,2,2025-01-11
+1213364,Beerschot Wilrijk,Antwerp,1,1,2025-01-12
+1213368,Dender,Gent,0,0,2025-01-12
+1213361,Anderlecht,Club Brugge KV,0,3,2025-01-12
+1213365,Cercle Brugge,KV Mechelen,1,0,2025-01-12
+1213371,Gent,Charleroi,1,1,2025-01-17
+1213376,Dender,Cercle Brugge,0,1,2025-01-18
+1213374,KV Mechelen,Genk,1,2,2025-01-18
+1213369,Club Brugge KV,Beerschot Wilrijk,4,2,2025-01-18
+1213373,Kortrijk,Anderlecht,0,2,2025-01-19
+1213370,Union St. Gilloise,OH Leuven,1,0,2025-01-19
+1213375,St. Truiden,Standard Liege,1,2,2025-01-19
+1213372,Antwerp,KVC Westerlo,3,2,2025-01-19
+1213382,St. Truiden,Antwerp,1,1,2025-01-24
+1213383,KVC Westerlo,Genk,1,2,2025-01-25
+1213384,Charleroi,Cercle Brugge,1,1,2025-01-25
+1213377,Club Brugge KV,Kortrijk,1,1,2025-01-25
+1213379,Standard Liege,Dender,1,0,2025-01-26
+1213380,Beerschot Wilrijk,Union St. Gilloise,0,4,2025-01-26
+1213378,Anderlecht,KV Mechelen,4,1,2025-01-26
+1213381,OH Leuven,Gent,0,0,2025-01-26
+1213391,OH Leuven,KV Mechelen,1,0,2025-01-31
+1213392,Charleroi,Dender,5,0,2025-02-01
+1213390,Cercle Brugge,Standard Liege,1,1,2025-02-01
+1213386,Genk,Beerschot Wilrijk,1,0,2025-02-01
+1213388,Antwerp,Club Brugge KV,2,1,2025-02-02
+1213385,Union St. Gilloise,St. Truiden,2,1,2025-02-02
+1213387,Gent,Anderlecht,1,0,2025-02-02
+1213389,Kortrijk,KVC Westerlo,1,2,2025-02-02
+1213398,KV Mechelen,Gent,3,3,2025-02-07
+1213393,Club Brugge KV,OH Leuven,1,0,2025-02-08
+1213400,Dender,St. Truiden,2,1,2025-02-08
+1213395,Genk,Cercle Brugge,2,1,2025-02-08
+1213394,Anderlecht,Antwerp,2,0,2025-02-09
+1213396,Kortrijk,Union St. Gilloise,1,2,2025-02-09
+1213399,KVC Westerlo,Standard Liege,4,2,2025-02-09
+1213397,Beerschot Wilrijk,Charleroi,1,1,2025-02-09
+1213404,Standard Liege,Genk,1,2,2025-02-14
+1213406,OH Leuven,Dender,3,2,2025-02-15
+1213403,Antwerp,Kortrijk,2,1,2025-02-15
+1213407,St. Truiden,Club Brugge KV,2,2,2025-02-15
+1213402,Gent,Beerschot Wilrijk,3,2,2025-02-16
+1213401,Union St. Gilloise,KV Mechelen,0,1,2025-02-16
+1213408,Charleroi,Anderlecht,0,1,2025-02-16
+1213405,Cercle Brugge,KVC Westerlo,1,1,2025-02-16
+1213414,KV Mechelen,St. Truiden,1,1,2025-02-21
+1213416,Dender,Beerschot Wilrijk,0,0,2025-02-22
+1213415,KVC Westerlo,Charleroi,1,3,2025-02-22
+1213412,Antwerp,OH Leuven,2,2,2025-02-22
+1213409,Club Brugge KV,Standard Liege,1,2,2025-02-23
+1213411,Genk,Gent,0,0,2025-02-23
+1213410,Anderlecht,Union St. Gilloise,0,2,2025-02-23
+1213413,Kortrijk,Cercle Brugge,1,1,2025-02-23
+1213424,Charleroi,Genk,1,1,2025-02-28
+1213418,Gent,Club Brugge KV,1,1,2025-03-01
+1213421,Cercle Brugge,Antwerp,0,0,2025-03-01
+1213423,St. Truiden,Kortrijk,4,2,2025-03-01
+1213417,Union St. Gilloise,Dender,4,1,2025-03-01
+1213420,Beerschot Wilrijk,KV Mechelen,1,0,2025-03-02
+1213419,Standard Liege,Anderlecht,0,2,2025-03-02
+1213422,OH Leuven,KVC Westerlo,0,0,2025-03-02
+1213429,St. Truiden,Beerschot Wilrijk,2,0,2025-03-07
+1213427,Kortrijk,OH Leuven,2,0,2025-03-08
+1213431,Charleroi,KV Mechelen,0,1,2025-03-08
+1213432,Dender,Genk,0,1,2025-03-08
+1213428,Cercle Brugge,Club Brugge KV,1,3,2025-03-09
+1213430,KVC Westerlo,Anderlecht,2,0,2025-03-09
+1213426,Antwerp,Gent,0,1,2025-03-09
+1213425,Union St. Gilloise,Standard Liege,3,0,2025-03-09
+1213435,Genk,Union St. Gilloise,2,1,2025-03-15
+1213437,Standard Liege,Antwerp,0,0,2025-03-16
+1213439,OH Leuven,St. Truiden,3,2,2025-03-16
+1213438,Beerschot Wilrijk,KVC Westerlo,1,2,2025-03-16
+1213440,KV Mechelen,Dender,2,1,2025-03-16
+1213434,Anderlecht,Cercle Brugge,3,0,2025-03-16
+1213433,Club Brugge KV,Charleroi,4,2,2025-03-16
+1213436,Gent,Kortrijk,1,2,2025-03-16
+1361770,OH Leuven,Charleroi,0,0,2025-03-28
+1361758,Beerschot Wilrijk,St. Truiden,0,1,2025-03-29
+1361771,Standard Liege,KV Mechelen,2,2,2025-03-29
+1361728,Union St. Gilloise,Antwerp,5,1,2025-03-29
+1361729,Club Brugge KV,Anderlecht,2,0,2025-03-30
+1361759,Kortrijk,Cercle Brugge,2,2,2025-03-30
+1361730,Genk,Gent,4,0,2025-03-30
+1361772,Dender,KVC Westerlo,1,0,2025-03-30
+1361773,KV Mechelen,Dender,5,2,2025-04-04
+1361760,Cercle Brugge,Beerschot Wilrijk,2,1,2025-04-05
+1361774,KVC Westerlo,OH Leuven,2,2,2025-04-05
+1361731,Gent,Union St. Gilloise,0,3,2025-04-05
+1361732,Antwerp,Club Brugge KV,2,3,2025-04-06
+1361761,St. Truiden,Kortrijk,0,3,2025-04-06
+1361733,Anderlecht,Genk,1,2,2025-04-06
+1361775,Charleroi,Standard Liege,1,0,2025-04-06
+1361776,KVC Westerlo,Charleroi,2,2,2025-04-11
+1361762,Kortrijk,Beerschot Wilrijk,3,2,2025-04-12
+1361763,St. Truiden,Cercle Brugge,3,1,2025-04-12
+1361734,Union St. Gilloise,Anderlecht,2,0,2025-04-12
+1361735,Antwerp,Gent,0,1,2025-04-13
+1361777,KV Mechelen,OH Leuven,1,1,2025-04-13
+1361736,Club Brugge KV,Genk,1,0,2025-04-13
+1361778,Dender,Standard Liege,1,1,2025-04-13
+1361779,OH Leuven,Dender,4,4,2025-04-19
+1361780,Charleroi,KV Mechelen,3,0,2025-04-19
+1361781,Standard Liege,KVC Westerlo,1,1,2025-04-19
+1361737,Anderlecht,Antwerp,0,0,2025-04-20
+1361738,Genk,Union St. Gilloise,1,2,2025-04-20
+1361739,Gent,Club Brugge KV,0,5,2025-04-20
+1361783,KV Mechelen,KVC Westerlo,2,3,2025-04-22
+1361782,Standard Liege,OH Leuven,0,1,2025-04-22
+1361784,Dender,Charleroi,2,1,2025-04-22
+1361741,Anderlecht,Gent,5,0,2025-04-23
+1361740,Antwerp,Genk,1,1,2025-04-23
+1361742,Club Brugge KV,Union St. Gilloise,0,1,2025-04-24
+1361764,Beerschot Wilrijk,Kortrijk,2,0,2025-04-25
+1361785,OH Leuven,Standard Liege,1,1,2025-04-26
+1361786,KVC Westerlo,KV Mechelen,2,2,2025-04-26
+1361787,Charleroi,Dender,4,1,2025-04-26
+1361765,Cercle Brugge,St. Truiden,3,1,2025-04-26
+1361743,Gent,Anderlecht,0,1,2025-04-27
+1361744,Genk,Antwerp,0,1,2025-04-27
+1361745,Union St. Gilloise,Club Brugge KV,0,0,2025-04-27
+1361746,Antwerp,Anderlecht,1,3,2025-05-01
+1361747,Club Brugge KV,Gent,4,1,2025-05-01
+1361788,KVC Westerlo,Dender,4,2,2025-05-02
+1361766,Cercle Brugge,Kortrijk,0,2,2025-05-03
+1361789,OH Leuven,KV Mechelen,1,2,2025-05-03
+1361748,Union St. Gilloise,Genk,1,0,2025-05-03
+1361790,Standard Liege,Charleroi,0,1,2025-05-04
+1361767,St. Truiden,Beerschot Wilrijk,2,1,2025-05-04
+1361791,Charleroi,KVC Westerlo,4,3,2025-05-09
+1361768,Beerschot Wilrijk,Cercle Brugge,4,2,2025-05-10
+1361769,Kortrijk,St. Truiden,2,2,2025-05-10
+1361792,KV Mechelen,Standard Liege,0,0,2025-05-10
+1361749,Anderlecht,Union St. Gilloise,0,1,2025-05-10
+1361750,Gent,Antwerp,0,3,2025-05-11
+1361751,Genk,Club Brugge KV,0,2,2025-05-11
+1361793,Dender,OH Leuven,5,0,2025-05-11
+1361794,OH Leuven,KVC Westerlo,0,2,2025-05-16
+1361795,Standard Liege,Dender,0,0,2025-05-17
+1361752,Antwerp,Union St. Gilloise,0,4,2025-05-17
+1361753,Anderlecht,Club Brugge KV,1,3,2025-05-18
+1361796,KV Mechelen,Charleroi,1,1,2025-05-18
+1361754,Gent,Genk,1,4,2025-05-18
+1375691,Patro Eisden,Cercle Brugge,1,5,2025-05-18
+1375692,Cercle Brugge,Patro Eisden,3,1,2025-05-23
+1361798,KVC Westerlo,Standard Liege,0,0,2025-05-24
+1361797,Charleroi,OH Leuven,2,1,2025-05-24
+1361799,Dender,KV Mechelen,2,2,2025-05-24
+1361755,Club Brugge KV,Antwerp,1,1,2025-05-25
+1361757,Genk,Anderlecht,2,1,2025-05-25
+1361756,Union St. Gilloise,Gent,3,1,2025-05-25
+1376258,Antwerp,Charleroi,1,2,2025-05-29
+1035037,Burnley,Manchester City,0,3,2023-08-11
+1035038,Arsenal,Nottingham Forest,2,1,2023-08-12
+1035039,Bournemouth,West Ham,1,1,2023-08-12
+1035041,Everton,Fulham,0,1,2023-08-12
+1035040,Brighton,Luton,4,1,2023-08-12
+1035042,Sheffield Utd,Crystal Palace,0,1,2023-08-12
+1035043,Newcastle,Aston Villa,5,1,2023-08-12
+1035044,Brentford,Tottenham,2,2,2023-08-13
+1035045,Chelsea,Liverpool,1,1,2023-08-13
+1035046,Manchester United,Wolves,1,0,2023-08-14
+1035053,Nottingham Forest,Sheffield Utd,2,1,2023-08-18
+1035049,Fulham,Brentford,0,3,2023-08-19
+1035056,Wolves,Brighton,1,4,2023-08-19
+1035050,Liverpool,Bournemouth,3,1,2023-08-19
+1035054,Tottenham,Manchester United,2,0,2023-08-19
+1035052,Manchester City,Newcastle,1,0,2023-08-19
+1035047,Aston Villa,Everton,4,0,2023-08-20
+1035055,West Ham,Chelsea,3,1,2023-08-20
+1035048,Crystal Palace,Arsenal,0,1,2023-08-21
+1035062,Chelsea,Luton,3,0,2023-08-25
+1035057,Bournemouth,Tottenham,0,2,2023-08-26
+1035064,Manchester United,Nottingham Forest,3,2,2023-08-26
+1035058,Arsenal,Fulham,2,2,2023-08-26
+1035063,Everton,Wolves,0,1,2023-08-26
+1035059,Brentford,Crystal Palace,1,1,2023-08-26
+1035060,Brighton,West Ham,1,3,2023-08-26
+1035061,Burnley,Aston Villa,1,3,2023-08-27
+1035066,Sheffield Utd,Manchester City,1,2,2023-08-27
+1035065,Newcastle,Liverpool,1,2,2023-08-27
+1035074,Luton,West Ham,1,2,2023-09-01
+1035076,Sheffield Utd,Everton,2,2,2023-09-02
+1035070,Burnley,Tottenham,2,5,2023-09-02
+1035071,Chelsea,Nottingham Forest,0,1,2023-09-02
+1035075,Manchester City,Fulham,5,1,2023-09-02
+1035068,Brentford,Bournemouth,2,2,2023-09-02
+1035069,Brighton,Newcastle,3,1,2023-09-02
+1035073,Liverpool,Aston Villa,3,0,2023-09-03
+1035072,Crystal Palace,Wolves,3,2,2023-09-03
+1035067,Arsenal,Manchester United,3,1,2023-09-03
+1035086,Wolves,Liverpool,1,3,2023-09-16
+1035081,Manchester United,Brighton,1,3,2023-09-16
+1035080,Fulham,Luton,1,0,2023-09-16
+1035084,Tottenham,Sheffield Utd,2,1,2023-09-16
+1035085,West Ham,Manchester City,1,3,2023-09-16
+1035078,Aston Villa,Crystal Palace,3,1,2023-09-16
+1035082,Newcastle,Brentford,1,0,2023-09-16
+1035077,Bournemouth,Chelsea,0,0,2023-09-17
+1035079,Everton,Arsenal,0,1,2023-09-17
+1035083,Nottingham Forest,Burnley,1,1,2023-09-18
+1035095,Manchester City,Nottingham Forest,2,0,2023-09-23
+1035092,Crystal Palace,Fulham,0,0,2023-09-23
+1035094,Luton,Wolves,1,1,2023-09-23
+1035088,Brentford,Everton,1,3,2023-09-23
+1035090,Burnley,Manchester United,0,1,2023-09-23
+1035093,Liverpool,West Ham,3,1,2023-09-24
+1035087,Arsenal,Tottenham,2,2,2023-09-24
+1035091,Chelsea,Aston Villa,0,1,2023-09-24
+1035089,Brighton,Bournemouth,3,1,2023-09-24
+1035096,Sheffield Utd,Newcastle,0,8,2023-09-24
+1035098,Aston Villa,Brighton,6,1,2023-09-30
+1035101,Manchester United,Crystal Palace,0,1,2023-09-30
+1035102,Newcastle,Burnley,2,0,2023-09-30
+1035097,Bournemouth,Arsenal,0,4,2023-09-30
+1035106,Wolves,Manchester City,2,1,2023-09-30
+1035099,Everton,Luton,1,2,2023-09-30
+1035105,West Ham,Sheffield Utd,2,0,2023-09-30
+1035104,Tottenham,Liverpool,2,1,2023-09-30
+1035103,Nottingham Forest,Brentford,1,1,2023-10-01
+1035100,Fulham,Chelsea,0,2,2023-10-02
+1035051,Luton,Burnley,1,2,2023-10-03
+1035113,Luton,Tottenham,0,1,2023-10-07
+1035114,Manchester United,Brentford,2,1,2023-10-07
+1035112,Fulham,Sheffield Utd,3,1,2023-10-07
+1035109,Burnley,Chelsea,1,4,2023-10-07
+1035111,Everton,Bournemouth,3,0,2023-10-07
+1035110,Crystal Palace,Nottingham Forest,0,0,2023-10-07
+1035116,Wolves,Aston Villa,1,1,2023-10-08
+1035115,West Ham,Newcastle,2,2,2023-10-08
+1035108,Brighton,Liverpool,2,2,2023-10-08
+1035107,Arsenal,Manchester City,1,0,2023-10-08
+1035121,Liverpool,Everton,2,0,2023-10-21
+1035123,Newcastle,Crystal Palace,4,0,2023-10-21
+1035117,Bournemouth,Wolves,1,2,2023-10-21
+1035122,Manchester City,Brighton,2,1,2023-10-21
+1035119,Brentford,Burnley,3,0,2023-10-21
+1035124,Nottingham Forest,Luton,2,2,2023-10-21
+1035120,Chelsea,Arsenal,2,2,2023-10-21
+1035125,Sheffield Utd,Manchester United,1,2,2023-10-21
+1035118,Aston Villa,West Ham,4,1,2023-10-22
+1035126,Tottenham,Fulham,2,0,2023-10-23
+1035132,Crystal Palace,Tottenham,1,2,2023-10-27
+1035131,Chelsea,Brentford,0,2,2023-10-28
+1035127,Bournemouth,Burnley,2,1,2023-10-28
+1035128,Arsenal,Sheffield Utd,5,0,2023-10-28
+1035136,Wolves,Newcastle,2,2,2023-10-28
+1035135,West Ham,Everton,0,1,2023-10-29
+1035133,Liverpool,Nottingham Forest,3,0,2023-10-29
+1035130,Brighton,Fulham,1,1,2023-10-29
+1035129,Aston Villa,Luton,3,1,2023-10-29
+1035134,Manchester United,Manchester City,0,3,2023-10-29
+1035140,Fulham,Manchester United,0,1,2023-11-04
+1035138,Burnley,Crystal Palace,0,2,2023-11-04
+1035139,Everton,Brighton,1,1,2023-11-04
+1035142,Manchester City,Bournemouth,6,1,2023-11-04
+1035137,Brentford,West Ham,3,2,2023-11-04
+1035145,Sheffield Utd,Wolves,2,1,2023-11-04
+1035143,Newcastle,Arsenal,1,0,2023-11-04
+1035144,Nottingham Forest,Aston Villa,2,0,2023-11-05
+1035141,Luton,Liverpool,1,1,2023-11-05
+1035146,Tottenham,Chelsea,1,4,2023-11-06
+1035156,Wolves,Tottenham,2,1,2023-11-11
+1035154,Manchester United,Luton,1,0,2023-11-11
+1035148,Arsenal,Burnley,3,1,2023-11-11
+1035152,Crystal Palace,Everton,2,3,2023-11-11
+1035147,Bournemouth,Newcastle,2,0,2023-11-11
+1035153,Liverpool,Brentford,3,0,2023-11-12
+1035155,West Ham,Nottingham Forest,3,2,2023-11-12
+1035150,Brighton,Sheffield Utd,1,1,2023-11-12
+1035149,Aston Villa,Fulham,3,1,2023-11-12
+1035151,Chelsea,Manchester City,4,4,2023-11-12
+1035299,Manchester City,Liverpool,1,1,2023-11-25
+1035300,Newcastle,Chelsea,4,1,2023-11-25
+1035295,Burnley,West Ham,1,2,2023-11-25
+1035302,Sheffield Utd,Bournemouth,1,3,2023-11-25
+1035301,Nottingham Forest,Brighton,2,3,2023-11-25
+1035298,Luton,Crystal Palace,2,1,2023-11-25
+1035294,Brentford,Arsenal,0,1,2023-11-25
+1035303,Tottenham,Aston Villa,1,2,2023-11-26
+1035296,Everton,Manchester United,0,3,2023-11-26
+1035297,Fulham,Wolves,3,2,2023-11-27
+1035305,Arsenal,Wolves,2,1,2023-12-02
+1035307,Burnley,Sheffield Utd,5,0,2023-12-02
+1035306,Brentford,Luton,3,1,2023-12-02
+1035312,Nottingham Forest,Everton,0,1,2023-12-02
+1035311,Newcastle,Manchester United,1,0,2023-12-02
+1035304,Bournemouth,Aston Villa,2,2,2023-12-03
+1035309,Liverpool,Fulham,4,3,2023-12-03
+1035313,West Ham,Crystal Palace,1,1,2023-12-03
+1035308,Chelsea,Brighton,3,2,2023-12-03
+1035310,Manchester City,Tottenham,3,3,2023-12-03
+1035321,Wolves,Burnley,1,0,2023-12-05
+1035318,Luton,Arsenal,3,4,2023-12-05
+1035317,Fulham,Nottingham Forest,5,0,2023-12-06
+1035315,Brighton,Brentford,2,1,2023-12-06
+1035322,Crystal Palace,Bournemouth,0,2,2023-12-06
+1035319,Sheffield Utd,Liverpool,0,2,2023-12-06
+1035323,Manchester United,Chelsea,2,1,2023-12-06
+1035314,Aston Villa,Manchester City,1,0,2023-12-06
+1035316,Everton,Newcastle,3,0,2023-12-07
+1035320,Tottenham,West Ham,1,2,2023-12-07
+1035326,Crystal Palace,Liverpool,1,2,2023-12-09
+1035330,Manchester United,Bournemouth,0,3,2023-12-09
+1035333,Wolves,Nottingham Forest,1,1,2023-12-09
+1035325,Brighton,Burnley,1,1,2023-12-09
+1035331,Sheffield Utd,Brentford,1,0,2023-12-09
+1035324,Aston Villa,Arsenal,1,0,2023-12-09
+1035328,Fulham,West Ham,5,0,2023-12-10
+1035327,Everton,Chelsea,2,0,2023-12-10
+1035329,Luton,Manchester City,1,2,2023-12-10
+1035332,Tottenham,Newcastle,4,1,2023-12-10
+1035342,Nottingham Forest,Tottenham,0,2,2023-12-15
+1035341,Newcastle,Fulham,3,0,2023-12-16
+1035338,Chelsea,Sheffield Utd,2,0,2023-12-16
+1035340,Manchester City,Crystal Palace,2,2,2023-12-16
+1035337,Burnley,Everton,0,2,2023-12-16
+1035335,Arsenal,Brighton,2,0,2023-12-17
+1035343,West Ham,Wolves,3,0,2023-12-17
+1035336,Brentford,Aston Villa,1,2,2023-12-17
+1035339,Liverpool,Manchester United,0,0,2023-12-17
+1035345,Crystal Palace,Brighton,1,1,2023-12-21
+1035344,Aston Villa,Sheffield Utd,1,1,2023-12-22
+1035352,West Ham,Manchester United,2,0,2023-12-23
+1035346,Fulham,Burnley,0,2,2023-12-23
+1035351,Tottenham,Everton,2,1,2023-12-23
+1035350,Nottingham Forest,Bournemouth,2,3,2023-12-23
+1035348,Luton,Newcastle,1,0,2023-12-23
+1035347,Liverpool,Arsenal,1,1,2023-12-23
+1035353,Wolves,Chelsea,2,1,2023-12-24
+1035362,Newcastle,Nottingham Forest,1,3,2023-12-26
+1035354,Bournemouth,Fulham,3,0,2023-12-26
+1035363,Sheffield Utd,Luton,2,3,2023-12-26
+1035358,Burnley,Liverpool,0,2,2023-12-26
+1035361,Manchester United,Aston Villa,3,2,2023-12-26
+1035359,Chelsea,Crystal Palace,2,1,2023-12-27
+1035356,Brentford,Wolves,1,4,2023-12-27
+1035360,Everton,Manchester City,1,3,2023-12-27
+1035357,Brighton,Tottenham,4,2,2023-12-28
+1035355,Arsenal,West Ham,0,2,2023-12-28
+1035368,Luton,Chelsea,2,3,2023-12-30
+1035373,Wolves,Everton,3,0,2023-12-30
+1035369,Manchester City,Sheffield Utd,2,0,2023-12-30
+1035365,Crystal Palace,Brentford,3,1,2023-12-30
+1035364,Aston Villa,Burnley,3,2,2023-12-30
+1035370,Nottingham Forest,Manchester United,2,1,2023-12-30
+1035366,Fulham,Arsenal,2,1,2023-12-31
+1035371,Tottenham,Bournemouth,3,1,2023-12-31
+1035367,Liverpool,Newcastle,4,2,2024-01-01
+1035372,West Ham,Brighton,0,0,2024-01-02
+1035378,Burnley,Luton,1,1,2024-01-12
+1035379,Chelsea,Fulham,1,0,2024-01-13
+1035382,Newcastle,Manchester City,2,3,2024-01-13
+1035380,Everton,Aston Villa,0,0,2024-01-14
+1035381,Manchester United,Tottenham,2,2,2024-01-14
+1035375,Arsenal,Crystal Palace,5,0,2024-01-20
+1035376,Brentford,Nottingham Forest,3,2,2024-01-20
+1035383,Sheffield Utd,West Ham,2,2,2024-01-21
+1035374,Bournemouth,Liverpool,0,4,2024-01-21
+1035377,Brighton,Wolves,0,0,2024-01-22
+1035387,Nottingham Forest,Arsenal,1,2,2024-01-30
+1035385,Fulham,Everton,0,0,2024-01-30
+1035386,Luton,Brighton,4,0,2024-01-30
+1035391,Crystal Palace,Sheffield Utd,3,2,2024-01-30
+1035384,Aston Villa,Newcastle,1,3,2024-01-30
+1035388,Tottenham,Brentford,3,2,2024-01-31
+1035393,Manchester City,Burnley,3,1,2024-01-31
+1035392,Liverpool,Chelsea,4,1,2024-01-31
+1035389,West Ham,Bournemouth,1,1,2024-02-01
+1035390,Wolves,Manchester United,3,4,2024-02-01
+1035400,Everton,Tottenham,2,2,2024-02-03
+1035402,Newcastle,Luton,4,4,2024-02-03
+1035398,Burnley,Fulham,2,2,2024-02-03
+1035397,Brighton,Crystal Palace,4,1,2024-02-03
+1035403,Sheffield Utd,Aston Villa,0,5,2024-02-03
+1035401,Manchester United,West Ham,3,0,2024-02-04
+1035394,Bournemouth,Nottingham Forest,1,1,2024-02-04
+1035399,Chelsea,Wolves,2,4,2024-02-04
+1035395,Arsenal,Liverpool,3,1,2024-02-04
+1035396,Brentford,Manchester City,1,3,2024-02-05
+1035409,Manchester City,Everton,2,0,2024-02-10
+1035406,Fulham,Bournemouth,3,1,2024-02-10
+1035413,Wolves,Brentford,0,2,2024-02-10
+1035407,Liverpool,Burnley,3,1,2024-02-10
+1035411,Tottenham,Brighton,2,1,2024-02-10
+1035408,Luton,Sheffield Utd,1,3,2024-02-10
+1035410,Nottingham Forest,Newcastle,2,3,2024-02-10
+1035412,West Ham,Arsenal,0,6,2024-02-11
+1035404,Aston Villa,Manchester United,1,2,2024-02-11
+1035405,Crystal Palace,Chelsea,1,3,2024-02-12
+1035414,Brentford,Liverpool,1,4,2024-02-17
+1035420,Newcastle,Bournemouth,2,2,2024-02-17
+1035417,Fulham,Aston Villa,1,2,2024-02-17
+1035415,Burnley,Arsenal,0,5,2024-02-17
+1035423,Tottenham,Wolves,1,2,2024-02-17
+1035421,Nottingham Forest,West Ham,2,0,2024-02-17
+1035419,Manchester City,Chelsea,1,1,2024-02-17
+1035422,Sheffield Utd,Brighton,0,5,2024-02-18
+1035418,Luton,Manchester United,1,2,2024-02-18
+1035416,Everton,Crystal Palace,1,1,2024-02-19
+1035349,Manchester City,Brentford,1,0,2024-02-20
+1035430,Liverpool,Luton,4,1,2024-02-21
+1035431,Manchester United,Fulham,1,2,2024-02-24
+1035427,Brighton,Everton,1,1,2024-02-24
+1035429,Crystal Palace,Burnley,3,0,2024-02-24
+1035426,Aston Villa,Nottingham Forest,4,2,2024-02-24
+1035424,Bournemouth,Manchester City,0,1,2024-02-24
+1035425,Arsenal,Newcastle,4,1,2024-02-24
+1035433,Wolves,Sheffield Utd,1,0,2024-02-25
+1035432,West Ham,Brentford,4,2,2024-02-26
+1035440,Newcastle,Wolves,3,0,2024-03-02
+1035437,Fulham,Brighton,3,0,2024-03-02
+1035436,Everton,West Ham,1,3,2024-03-02
+1035443,Tottenham,Crystal Palace,3,1,2024-03-02
+1035434,Brentford,Chelsea,2,2,2024-03-02
+1035441,Nottingham Forest,Liverpool,0,1,2024-03-02
+1035438,Luton,Aston Villa,2,3,2024-03-02
+1035435,Burnley,Bournemouth,0,2,2024-03-03
+1035439,Manchester City,Manchester United,3,1,2024-03-03
+1035442,Sheffield Utd,Arsenal,0,6,2024-03-04
+1035451,Manchester United,Everton,2,0,2024-03-09
+1035444,Bournemouth,Sheffield Utd,2,2,2024-03-09
+1035453,Wolves,Fulham,2,1,2024-03-09
+1035449,Crystal Palace,Luton,1,1,2024-03-09
+1035445,Arsenal,Brentford,2,1,2024-03-09
+1035446,Aston Villa,Tottenham,0,4,2024-03-10
+1035452,West Ham,Burnley,2,2,2024-03-10
+1035447,Brighton,Nottingham Forest,1,0,2024-03-10
+1035450,Liverpool,Manchester City,1,1,2024-03-10
+1035448,Chelsea,Newcastle,3,2,2024-03-11
+1035334,Bournemouth,Luton,4,3,2024-03-13
+1035456,Burnley,Brentford,2,1,2024-03-16
+1035460,Luton,Nottingham Forest,1,1,2024-03-16
+1035459,Fulham,Tottenham,3,0,2024-03-16
+1035462,West Ham,Aston Villa,1,1,2024-03-17
+1035470,Newcastle,West Ham,4,3,2024-03-30
+1035464,Bournemouth,Everton,2,1,2024-03-30
+1035473,Tottenham,Luton,2,1,2024-03-30
+1035467,Chelsea,Burnley,2,2,2024-03-30
+1035472,Sheffield Utd,Fulham,3,3,2024-03-30
+1035471,Nottingham Forest,Crystal Palace,1,1,2024-03-30
+1035465,Aston Villa,Wolves,2,0,2024-03-30
+1035466,Brentford,Manchester United,1,1,2024-03-30
+1035468,Liverpool,Brighton,2,1,2024-03-31
+1035469,Manchester City,Arsenal,0,0,2024-03-31
+1035481,Newcastle,Everton,1,1,2024-04-02
+1035478,Nottingham Forest,Fulham,3,1,2024-04-02
+1035474,Bournemouth,Crystal Palace,1,0,2024-04-02
+1035477,Burnley,Wolves,1,1,2024-04-02
+1035479,West Ham,Tottenham,1,1,2024-04-02
+1035475,Arsenal,Luton,2,0,2024-04-03
+1035476,Brentford,Brighton,0,0,2024-04-03
+1035483,Manchester City,Aston Villa,4,1,2024-04-03
+1035482,Liverpool,Sheffield Utd,3,1,2024-04-04
+1035480,Chelsea,Manchester United,4,3,2024-04-04
+1035486,Crystal Palace,Manchester City,2,4,2024-04-06
+1035488,Fulham,Newcastle,0,1,2024-04-06
+1035493,Wolves,West Ham,1,2,2024-04-06
+1035487,Everton,Burnley,1,0,2024-04-06
+1035484,Aston Villa,Brentford,3,3,2024-04-06
+1035489,Luton,Bournemouth,2,1,2024-04-06
+1035485,Brighton,Arsenal,0,3,2024-04-06
+1035490,Manchester United,Liverpool,2,2,2024-04-07
+1035491,Sheffield Utd,Chelsea,2,2,2024-04-07
+1035492,Tottenham,Nottingham Forest,3,1,2024-04-07
+1035501,Newcastle,Tottenham,4,0,2024-04-13
+1035497,Burnley,Brighton,1,1,2024-04-13
+1035500,Manchester City,Luton,5,1,2024-04-13
+1035496,Brentford,Sheffield Utd,2,0,2024-04-13
+1035502,Nottingham Forest,Wolves,2,2,2024-04-13
+1035494,Bournemouth,Manchester United,2,2,2024-04-13
+1035499,Liverpool,Crystal Palace,0,1,2024-04-14
+1035503,West Ham,Fulham,0,2,2024-04-14
+1035495,Arsenal,Aston Villa,0,2,2024-04-14
+1035498,Chelsea,Everton,6,0,2024-04-15
+1035511,Sheffield Utd,Burnley,1,4,2024-04-20
+1035509,Luton,Brentford,1,5,2024-04-20
+1035513,Wolves,Arsenal,0,2,2024-04-20
+1035507,Everton,Nottingham Forest,2,0,2024-04-21
+1035506,Crystal Palace,West Ham,5,2,2024-04-21
+1035504,Aston Villa,Bournemouth,3,1,2024-04-21
+1035508,Fulham,Liverpool,1,3,2024-04-21
+1035454,Arsenal,Chelsea,5,0,2024-04-23
+1035463,Wolves,Bournemouth,0,1,2024-04-24
+1035461,Manchester United,Sheffield Utd,4,2,2024-04-24
+1035458,Everton,Liverpool,2,0,2024-04-24
+1035457,Crystal Palace,Newcastle,2,0,2024-04-24
+1035455,Brighton,Manchester City,0,4,2024-04-25
+1035522,West Ham,Liverpool,2,2,2024-04-27
+1035518,Manchester United,Burnley,1,1,2024-04-27
+1035519,Newcastle,Sheffield Utd,5,1,2024-04-27
+1035517,Fulham,Crystal Palace,1,1,2024-04-27
+1035523,Wolves,Luton,2,1,2024-04-27
+1035516,Everton,Brentford,1,0,2024-04-27
+1035515,Aston Villa,Chelsea,2,2,2024-04-27
+1035514,Bournemouth,Brighton,3,0,2024-04-28
+1035521,Tottenham,Arsenal,2,3,2024-04-28
+1035520,Nottingham Forest,Manchester City,0,2,2024-04-28
+1035428,Chelsea,Tottenham,2,0,2024-05-02
+1035531,Luton,Everton,1,1,2024-05-03
+1035524,Arsenal,Bournemouth,3,0,2024-05-04
+1035527,Burnley,Newcastle,1,4,2024-05-04
+1035525,Brentford,Fulham,0,0,2024-05-04
+1035533,Sheffield Utd,Nottingham Forest,1,3,2024-05-04
+1035532,Manchester City,Wolves,5,1,2024-05-04
+1035528,Chelsea,West Ham,5,0,2024-05-05
+1035526,Brighton,Aston Villa,1,0,2024-05-05
+1035530,Liverpool,Tottenham,4,2,2024-05-05
+1035529,Crystal Palace,Manchester United,4,0,2024-05-06
+1035537,Fulham,Manchester City,0,4,2024-05-11
+1035539,Newcastle,Brighton,1,1,2024-05-11
+1035534,Bournemouth,Brentford,1,2,2024-05-11
+1035543,Wolves,Crystal Palace,1,3,2024-05-11
+1035536,Everton,Sheffield Utd,1,0,2024-05-11
+1035541,Tottenham,Burnley,2,1,2024-05-11
+1035542,West Ham,Luton,3,1,2024-05-11
+1035540,Nottingham Forest,Chelsea,2,3,2024-05-11
+1035538,Manchester United,Arsenal,0,1,2024-05-12
+1035535,Aston Villa,Liverpool,3,3,2024-05-13
+1035512,Tottenham,Manchester City,0,2,2024-05-14
+1035505,Brighton,Chelsea,1,2,2024-05-15
+1035510,Manchester United,Newcastle,3,2,2024-05-15
+1035550,Liverpool,Wolves,2,0,2024-05-19
+1035544,Arsenal,Everton,2,1,2024-05-19
+1035547,Burnley,Nottingham Forest,1,2,2024-05-19
+1035548,Chelsea,Bournemouth,2,1,2024-05-19
+1035552,Manchester City,West Ham,3,1,2024-05-19
+1035546,Brighton,Manchester United,0,2,2024-05-19
+1035549,Crystal Palace,Aston Villa,5,0,2024-05-19
+1035545,Brentford,Newcastle,2,4,2024-05-19
+1035553,Sheffield Utd,Tottenham,0,3,2024-05-19
+1035551,Luton,Fulham,2,4,2024-05-19
+1208021,Manchester United,Fulham,1,0,2024-08-16
+1208022,Ipswich,Liverpool,0,2,2024-08-17
+1208025,Newcastle,Southampton,1,0,2024-08-17
+1208023,Arsenal,Wolves,2,0,2024-08-17
+1208024,Everton,Brighton,0,3,2024-08-17
+1208026,Nottingham Forest,Bournemouth,1,1,2024-08-17
+1208027,West Ham,Aston Villa,1,2,2024-08-17
+1208028,Brentford,Crystal Palace,2,1,2024-08-18
+1208029,Chelsea,Manchester City,0,2,2024-08-18
+1208030,Leicester,Tottenham,1,1,2024-08-19
+1208033,Brighton,Manchester United,2,1,2024-08-24
+1208035,Fulham,Leicester,2,1,2024-08-24
+1208038,Southampton,Nottingham Forest,0,1,2024-08-24
+1208039,Tottenham,Everton,4,0,2024-08-24
+1208037,Manchester City,Ipswich,4,1,2024-08-24
+1208034,Crystal Palace,West Ham,0,2,2024-08-24
+1208032,Aston Villa,Arsenal,0,2,2024-08-24
+1208031,Bournemouth,Newcastle,1,1,2024-08-25
+1208040,Wolves,Chelsea,2,6,2024-08-25
+1208036,Liverpool,Brentford,2,0,2024-08-25
+1208041,Arsenal,Brighton,1,1,2024-08-31
+1208044,Everton,Bournemouth,2,3,2024-08-31
+1208046,Leicester,Aston Villa,1,2,2024-08-31
+1208042,Brentford,Southampton,3,1,2024-08-31
+1208045,Ipswich,Fulham,1,1,2024-08-31
+1208049,Nottingham Forest,Wolves,1,1,2024-08-31
+1208050,West Ham,Manchester City,1,3,2024-08-31
+1208048,Newcastle,Tottenham,2,1,2024-09-01
+1208043,Chelsea,Crystal Palace,1,1,2024-09-01
+1208047,Manchester United,Liverpool,0,3,2024-09-01
+1208058,Southampton,Manchester United,0,3,2024-09-14
+1208055,Fulham,West Ham,1,1,2024-09-14
+1208056,Liverpool,Nottingham Forest,0,1,2024-09-14
+1208057,Manchester City,Brentford,2,1,2024-09-14
+1208053,Brighton,Ipswich,0,0,2024-09-14
+1208054,Crystal Palace,Leicester,2,2,2024-09-14
+1208052,Aston Villa,Everton,3,2,2024-09-14
+1208051,Bournemouth,Chelsea,0,1,2024-09-14
+1208059,Tottenham,Arsenal,0,1,2024-09-15
+1208060,Wolves,Newcastle,1,2,2024-09-15
+1208070,West Ham,Chelsea,0,3,2024-09-21
+1208064,Fulham,Newcastle,3,1,2024-09-21
+1208066,Liverpool,Bournemouth,3,0,2024-09-21
+1208068,Southampton,Ipswich,1,1,2024-09-21
+1208065,Leicester,Everton,1,1,2024-09-21
+1208069,Tottenham,Brentford,3,1,2024-09-21
+1208061,Aston Villa,Wolves,3,1,2024-09-21
+1208063,Crystal Palace,Manchester United,0,0,2024-09-21
+1208062,Brighton,Nottingham Forest,2,2,2024-09-22
+1208067,Manchester City,Arsenal,2,2,2024-09-22
+1208078,Newcastle,Manchester City,1,1,2024-09-28
+1208072,Arsenal,Leicester,4,2,2024-09-28
+1208075,Everton,Crystal Palace,2,1,2024-09-28
+1208074,Chelsea,Brighton,4,2,2024-09-28
+1208073,Brentford,West Ham,1,1,2024-09-28
+1208079,Nottingham Forest,Fulham,0,1,2024-09-28
+1208080,Wolves,Liverpool,1,2,2024-09-28
+1208076,Ipswich,Aston Villa,2,2,2024-09-29
+1208077,Manchester United,Tottenham,0,3,2024-09-29
+1208071,Bournemouth,Southampton,3,1,2024-09-30
+1208086,Crystal Palace,Liverpool,0,1,2024-10-05
+1208081,Arsenal,Southampton,3,1,2024-10-05
+1208088,Leicester,Bournemouth,1,0,2024-10-05
+1208090,West Ham,Ipswich,4,1,2024-10-05
+1208089,Manchester City,Fulham,3,2,2024-10-05
+1208083,Brentford,Wolves,5,3,2024-10-05
+1208087,Everton,Newcastle,0,0,2024-10-05
+1208085,Chelsea,Nottingham Forest,1,1,2024-10-06
+1208082,Aston Villa,Manchester United,0,0,2024-10-06
+1208084,Brighton,Tottenham,3,2,2024-10-06
+1208099,Tottenham,West Ham,4,1,2024-10-19
+1208095,Manchester United,Brentford,2,1,2024-10-19
+1208096,Newcastle,Brighton,0,1,2024-10-19
+1208092,Fulham,Aston Villa,1,3,2024-10-19
+1208098,Southampton,Leicester,2,3,2024-10-19
+1208093,Ipswich,Everton,0,2,2024-10-19
+1208091,Bournemouth,Arsenal,2,0,2024-10-19
+1208100,Wolves,Manchester City,1,2,2024-10-20
+1208094,Liverpool,Chelsea,2,1,2024-10-20
+1208097,Nottingham Forest,Crystal Palace,1,0,2024-10-21
+1208110,Leicester,Nottingham Forest,1,3,2024-10-25
+1208111,Manchester City,Southampton,1,0,2024-10-26
+1208106,Brighton,Wolves,2,2,2024-10-26
+1208105,Brentford,Ipswich,4,3,2024-10-26
+1208104,Aston Villa,Bournemouth,1,1,2024-10-26
+1208109,Everton,Fulham,1,1,2024-10-26
+1208112,West Ham,Manchester United,2,1,2024-10-27
+1208107,Chelsea,Newcastle,2,1,2024-10-27
+1208108,Crystal Palace,Tottenham,1,0,2024-10-27
+1208103,Arsenal,Liverpool,2,2,2024-10-27
+1208118,Newcastle,Arsenal,1,0,2024-11-02
+1208113,Bournemouth,Manchester City,2,1,2024-11-02
+1208116,Liverpool,Brighton,2,1,2024-11-02
+1208120,Southampton,Everton,1,0,2024-11-02
+1208115,Ipswich,Leicester,1,1,2024-11-02
+1208119,Nottingham Forest,West Ham,3,0,2024-11-02
+1208122,Wolves,Crystal Palace,2,2,2024-11-02
+1208121,Tottenham,Aston Villa,4,1,2024-11-03
+1208117,Manchester United,Chelsea,1,1,2024-11-03
+1208114,Fulham,Brentford,2,1,2024-11-04
+1208132,Wolves,Southampton,2,0,2024-11-09
+1208131,West Ham,Everton,0,0,2024-11-09
+1208126,Crystal Palace,Fulham,0,2,2024-11-09
+1208123,Brentford,Bournemouth,3,2,2024-11-09
+1208124,Brighton,Manchester City,2,1,2024-11-09
+1208127,Liverpool,Aston Villa,2,0,2024-11-09
+1208128,Manchester United,Leicester,3,0,2024-11-10
+1208130,Tottenham,Ipswich,1,2,2024-11-10
+1208129,Nottingham Forest,Newcastle,1,3,2024-11-10
+1208125,Chelsea,Arsenal,1,1,2024-11-10
+1208139,Leicester,Chelsea,1,2,2024-11-23
+1208133,Bournemouth,Brighton,1,2,2024-11-23
+1208137,Fulham,Wolves,1,4,2024-11-23
+1208134,Arsenal,Nottingham Forest,3,0,2024-11-23
+1208136,Everton,Brentford,0,0,2024-11-23
+1208135,Aston Villa,Crystal Palace,2,2,2024-11-23
+1208140,Manchester City,Tottenham,0,4,2024-11-23
+1208142,Southampton,Liverpool,2,3,2024-11-24
+1208138,Ipswich,Manchester United,1,1,2024-11-24
+1208141,Newcastle,West Ham,0,2,2024-11-25
+1208144,Brighton,Southampton,1,1,2024-11-29
+1208152,Wolves,Bournemouth,2,4,2024-11-30
+1208146,Crystal Palace,Newcastle,1,1,2024-11-30
+1208143,Brentford,Leicester,4,1,2024-11-30
+1208149,Nottingham Forest,Ipswich,1,0,2024-11-30
+1208151,West Ham,Arsenal,2,5,2024-11-30
+1208148,Manchester United,Everton,4,0,2024-12-01
+1208150,Tottenham,Fulham,1,1,2024-12-01
+1208145,Chelsea,Aston Villa,3,0,2024-12-01
+1208147,Liverpool,Manchester City,2,0,2024-12-01
+1208158,Ipswich,Crystal Palace,0,1,2024-12-03
+1208159,Leicester,West Ham,3,1,2024-12-03
+1208161,Newcastle,Liverpool,3,3,2024-12-04
+1208162,Southampton,Chelsea,1,5,2024-12-04
+1208156,Everton,Wolves,4,0,2024-12-04
+1208160,Manchester City,Nottingham Forest,3,0,2024-12-04
+1208154,Arsenal,Manchester United,2,0,2024-12-04
+1208155,Aston Villa,Brentford,3,1,2024-12-04
+1208157,Fulham,Brighton,3,1,2024-12-05
+1208153,Bournemouth,Tottenham,1,0,2024-12-05
+1208165,Crystal Palace,Manchester City,2,2,2024-12-07
+1208164,Brentford,Newcastle,4,2,2024-12-07
+1208163,Aston Villa,Southampton,1,0,2024-12-07
+1208170,Manchester United,Nottingham Forest,2,3,2024-12-07
+1208167,Fulham,Arsenal,1,1,2024-12-08
+1208169,Leicester,Brighton,2,2,2024-12-08
+1208168,Ipswich,Bournemouth,1,2,2024-12-08
+1208171,Tottenham,Chelsea,3,4,2024-12-08
+1208172,West Ham,Wolves,2,1,2024-12-09
+1208179,Newcastle,Leicester,4,0,2024-12-14
+1208182,Wolves,Ipswich,1,2,2024-12-14
+1208177,Liverpool,Fulham,2,2,2024-12-14
+1208174,Arsenal,Everton,0,0,2024-12-14
+1208180,Nottingham Forest,Aston Villa,2,1,2024-12-14
+1208175,Brighton,Crystal Palace,1,3,2024-12-15
+1208178,Manchester City,Manchester United,1,2,2024-12-15
+1208181,Southampton,Tottenham,0,5,2024-12-15
+1208176,Chelsea,Brentford,2,1,2024-12-15
+1208173,Bournemouth,West Ham,1,1,2024-12-16
+1208183,Aston Villa,Manchester City,2,1,2024-12-21
+1208192,West Ham,Brighton,1,1,2024-12-21
+1208184,Brentford,Nottingham Forest,0,2,2024-12-21
+1208188,Ipswich,Newcastle,0,4,2024-12-21
+1208185,Crystal Palace,Arsenal,1,5,2024-12-21
+1208190,Manchester United,Bournemouth,0,3,2024-12-22
+1208187,Fulham,Southampton,0,0,2024-12-22
+1208186,Everton,Chelsea,0,0,2024-12-22
+1208189,Leicester,Wolves,0,3,2024-12-22
+1208191,Tottenham,Liverpool,3,6,2024-12-22
+1208198,Manchester City,Everton,1,1,2024-12-26
+1208199,Newcastle,Aston Villa,3,0,2024-12-26
+1208193,Bournemouth,Crystal Palace,0,0,2024-12-26
+1208201,Southampton,West Ham,0,1,2024-12-26
+1208196,Chelsea,Fulham,1,2,2024-12-26
+1208200,Nottingham Forest,Tottenham,1,0,2024-12-26
+1208202,Wolves,Manchester United,2,0,2024-12-26
+1208197,Liverpool,Leicester,3,1,2024-12-26
+1208195,Brighton,Brentford,0,0,2024-12-27
+1208194,Arsenal,Ipswich,1,0,2024-12-27
+1208209,Leicester,Manchester City,0,2,2024-12-29
+1208207,Fulham,Bournemouth,2,2,2024-12-29
+1208206,Everton,Nottingham Forest,0,2,2024-12-29
+1208211,Tottenham,Wolves,2,2,2024-12-29
+1208205,Crystal Palace,Southampton,2,1,2024-12-29
+1208212,West Ham,Liverpool,0,5,2024-12-29
+1208208,Ipswich,Chelsea,2,0,2024-12-30
+1208203,Aston Villa,Brighton,2,2,2024-12-30
+1208210,Manchester United,Newcastle,0,2,2024-12-30
+1208204,Brentford,Arsenal,1,3,2025-01-01
+1208221,Tottenham,Newcastle,1,2,2025-01-04
+1208213,Bournemouth,Everton,1,0,2025-01-04
+1208220,Southampton,Brentford,0,5,2025-01-04
+1208219,Manchester City,West Ham,4,1,2025-01-04
+1208216,Crystal Palace,Chelsea,1,1,2025-01-04
+1208214,Aston Villa,Leicester,2,1,2025-01-04
+1208215,Brighton,Arsenal,1,1,2025-01-04
+1208217,Fulham,Ipswich,2,2,2025-01-05
+1208218,Liverpool,Manchester United,2,2,2025-01-05
+1208222,Wolves,Nottingham Forest,0,3,2025-01-06
+1208229,West Ham,Fulham,3,2,2025-01-14
+1208230,Chelsea,Bournemouth,2,2,2025-01-14
+1208224,Brentford,Manchester City,2,2,2025-01-14
+1208228,Nottingham Forest,Liverpool,1,1,2025-01-14
+1208231,Newcastle,Wolves,3,0,2025-01-15
+1208225,Everton,Aston Villa,0,1,2025-01-15
+1208227,Leicester,Crystal Palace,0,2,2025-01-15
+1208223,Arsenal,Tottenham,2,1,2025-01-15
+1208226,Ipswich,Brighton,0,2,2025-01-16
+1208232,Manchester United,Southampton,3,1,2025-01-16
+1208240,Newcastle,Bournemouth,1,4,2025-01-18
+1208238,Leicester,Fulham,0,2,2025-01-18
+1208242,West Ham,Crystal Palace,0,2,2025-01-18
+1208234,Brentford,Liverpool,0,2,2025-01-18
+1208233,Arsenal,Aston Villa,2,2,2025-01-18
+1208239,Manchester United,Brighton,1,3,2025-01-19
+1208236,Everton,Tottenham,3,2,2025-01-19
+1208241,Nottingham Forest,Southampton,3,2,2025-01-19
+1208237,Ipswich,Manchester City,0,6,2025-01-19
+1208235,Chelsea,Wolves,3,1,2025-01-20
+1208243,Bournemouth,Nottingham Forest,5,0,2025-01-25
+1208252,Wolves,Arsenal,0,1,2025-01-25
+1208248,Liverpool,Ipswich,4,1,2025-01-25
+1208250,Southampton,Newcastle,1,3,2025-01-25
+1208245,Brighton,Everton,0,1,2025-01-25
+1208249,Manchester City,Chelsea,3,1,2025-01-25
+1208251,Tottenham,Leicester,1,2,2025-01-26
+1208246,Crystal Palace,Brentford,1,2,2025-01-26
+1208244,Aston Villa,West Ham,1,1,2025-01-26
+1208247,Fulham,Manchester United,0,1,2025-01-26
+1208261,Nottingham Forest,Brighton,7,0,2025-02-01
+1208260,Newcastle,Fulham,1,2,2025-02-01
+1208253,Bournemouth,Liverpool,0,2,2025-02-01
+1208257,Everton,Leicester,4,0,2025-02-01
+1208258,Ipswich,Southampton,1,2,2025-02-01
+1208262,Wolves,Aston Villa,2,0,2025-02-01
+1208259,Manchester United,Crystal Palace,0,2,2025-02-02
+1208255,Brentford,Tottenham,0,2,2025-02-02
+1208254,Arsenal,Manchester City,5,1,2025-02-02
+1208256,Chelsea,West Ham,2,1,2025-02-03
+1208166,Everton,Liverpool,2,2,2025-02-12
+1208264,Brighton,Chelsea,3,0,2025-02-14
+1208267,Leicester,Arsenal,0,2,2025-02-15
+1208266,Fulham,Nottingham Forest,2,1,2025-02-15
+1208270,Southampton,Bournemouth,1,3,2025-02-15
+1208272,West Ham,Brentford,0,1,2025-02-15
+1208269,Manchester City,Newcastle,4,0,2025-02-15
+1208263,Aston Villa,Ipswich,1,1,2025-02-15
+1208265,Crystal Palace,Everton,1,2,2025-02-15
+1208268,Liverpool,Wolves,2,1,2025-02-16
+1208271,Tottenham,Manchester United,1,0,2025-02-16
+1208305,Aston Villa,Liverpool,2,2,2025-02-19
+1208279,Leicester,Brentford,0,4,2025-02-21
+1208276,Everton,Manchester United,2,2,2025-02-22
+1208273,Bournemouth,Wolves,0,1,2025-02-22
+1208277,Fulham,Crystal Palace,0,2,2025-02-22
+1208282,Southampton,Brighton,0,4,2025-02-22
+1208274,Arsenal,West Ham,0,1,2025-02-22
+1208278,Ipswich,Tottenham,1,4,2025-02-22
+1208275,Aston Villa,Chelsea,2,1,2025-02-22
+1208281,Newcastle,Nottingham Forest,4,3,2025-02-23
+1208280,Manchester City,Liverpool,0,2,2025-02-23
+1208288,Wolves,Fulham,1,2,2025-02-25
+1208284,Brighton,Bournemouth,2,1,2025-02-25
+1208289,Crystal Palace,Aston Villa,4,1,2025-02-25
+1208290,Chelsea,Southampton,4,0,2025-02-25
+1208292,Manchester United,Ipswich,3,2,2025-02-26
+1208286,Tottenham,Manchester City,0,1,2025-02-26
+1208283,Brentford,Everton,1,1,2025-02-26
+1208285,Nottingham Forest,Arsenal,0,0,2025-02-26
+1208291,Liverpool,Newcastle,2,0,2025-02-26
+1208287,West Ham,Leicester,2,0,2025-02-27
+1208299,Nottingham Forest,Manchester City,1,0,2025-03-08
+1208297,Liverpool,Southampton,3,1,2025-03-08
+1208294,Brighton,Fulham,2,1,2025-03-08
+1208296,Crystal Palace,Ipswich,1,0,2025-03-08
+1208293,Brentford,Aston Villa,0,1,2025-03-08
+1208302,Wolves,Everton,1,1,2025-03-08
+1208300,Tottenham,Bournemouth,2,2,2025-03-09
+1208295,Chelsea,Leicester,1,0,2025-03-09
+1208298,Manchester United,Arsenal,1,1,2025-03-09
+1208301,West Ham,Newcastle,0,1,2025-03-10
+1208312,Southampton,Wolves,1,2,2025-03-15
+1208306,Everton,West Ham,1,1,2025-03-15
+1208310,Manchester City,Brighton,2,2,2025-03-15
+1208308,Ipswich,Nottingham Forest,2,4,2025-03-15
+1208303,Bournemouth,Brentford,1,2,2025-03-15
+1208307,Fulham,Tottenham,2,0,2025-03-16
+1208304,Arsenal,Chelsea,1,0,2025-03-16
+1208309,Leicester,Manchester United,0,3,2025-03-16
+1208317,Wolves,West Ham,1,0,2025-04-01
+1208314,Arsenal,Fulham,2,1,2025-04-01
+1208316,Nottingham Forest,Manchester United,1,0,2025-04-01
+1208320,Newcastle,Brentford,2,1,2025-04-02
+1208313,Bournemouth,Ipswich,1,2,2025-04-02
+1208321,Southampton,Crystal Palace,1,1,2025-04-02
+1208319,Manchester City,Leicester,2,0,2025-04-02
+1208315,Brighton,Aston Villa,0,3,2025-04-02
+1208322,Liverpool,Everton,1,0,2025-04-02
+1208318,Chelsea,Tottenham,1,0,2025-04-03
+1208326,Everton,Arsenal,1,1,2025-04-05
+1208332,West Ham,Bournemouth,2,2,2025-04-05
+1208325,Crystal Palace,Brighton,2,1,2025-04-05
+1208328,Ipswich,Wolves,1,2,2025-04-05
+1208323,Aston Villa,Nottingham Forest,2,1,2025-04-05
+1208327,Fulham,Liverpool,3,2,2025-04-06
+1208331,Tottenham,Southampton,3,1,2025-04-06
+1208324,Brentford,Chelsea,0,0,2025-04-06
+1208330,Manchester United,Manchester City,0,0,2025-04-06
+1208329,Leicester,Newcastle,0,3,2025-04-07
+1208338,Manchester City,Crystal Palace,5,2,2025-04-12
+1208341,Southampton,Aston Villa,0,3,2025-04-12
+1208335,Brighton,Leicester,2,2,2025-04-12
+1208340,Nottingham Forest,Everton,0,1,2025-04-12
+1208334,Arsenal,Brentford,1,1,2025-04-12
+1208342,Wolves,Tottenham,4,2,2025-04-13
+1208337,Liverpool,West Ham,2,1,2025-04-13
+1208336,Chelsea,Ipswich,2,2,2025-04-13
+1208339,Newcastle,Manchester United,4,1,2025-04-13
+1208333,Bournemouth,Fulham,1,0,2025-04-14
+1208311,Newcastle,Crystal Palace,5,0,2025-04-16
+1208346,Everton,Manchester City,0,2,2025-04-19
+1208352,West Ham,Southampton,1,1,2025-04-19
+1208345,Crystal Palace,Bournemouth,0,0,2025-04-19
+1208344,Brentford,Brighton,4,2,2025-04-19
+1208343,Aston Villa,Newcastle,4,1,2025-04-19
+1208350,Manchester United,Wolves,0,1,2025-04-20
+1208347,Fulham,Chelsea,1,2,2025-04-20
+1208348,Ipswich,Arsenal,0,4,2025-04-20
+1208349,Leicester,Liverpool,0,1,2025-04-20
+1208351,Tottenham,Nottingham Forest,1,2,2025-04-21
+1208358,Manchester City,Aston Villa,2,1,2025-04-22
+1208354,Arsenal,Crystal Palace,2,2,2025-04-23
+1208356,Chelsea,Everton,1,0,2025-04-26
+1208359,Newcastle,Ipswich,3,0,2025-04-26
+1208362,Wolves,Leicester,3,0,2025-04-26
+1208361,Southampton,Fulham,1,2,2025-04-26
+1208355,Brighton,West Ham,3,2,2025-04-26
+1208353,Bournemouth,Manchester United,1,1,2025-04-27
+1208357,Liverpool,Tottenham,5,1,2025-04-27
+1208360,Nottingham Forest,Brentford,0,2,2025-05-01
+1208371,Manchester City,Wolves,1,0,2025-05-02
+1208364,Aston Villa,Fulham,1,0,2025-05-03
+1208369,Everton,Ipswich,2,2,2025-05-03
+1208370,Leicester,Southampton,2,0,2025-05-03
+1208363,Arsenal,Bournemouth,1,2,2025-05-03
+1208372,West Ham,Tottenham,1,1,2025-05-04
+1208366,Brighton,Newcastle,1,1,2025-05-04
+1208365,Brentford,Manchester United,4,3,2025-05-04
+1208367,Chelsea,Liverpool,3,1,2025-05-04
+1208368,Crystal Palace,Nottingham Forest,1,1,2025-05-05
+1208374,Fulham,Everton,1,3,2025-05-10
+1208382,Wolves,Brighton,0,2,2025-05-10
+1208380,Southampton,Manchester City,0,0,2025-05-10
+1208375,Ipswich,Brentford,0,1,2025-05-10
+1208373,Bournemouth,Aston Villa,0,1,2025-05-10
+1208378,Newcastle,Chelsea,2,0,2025-05-11
+1208377,Manchester United,West Ham,0,2,2025-05-11
+1208381,Tottenham,Crystal Palace,0,2,2025-05-11
+1208379,Nottingham Forest,Leicester,2,2,2025-05-11
+1208376,Liverpool,Arsenal,2,2,2025-05-11
+1208384,Aston Villa,Tottenham,2,0,2025-05-16
+1208387,Chelsea,Manchester United,1,0,2025-05-16
+1208389,Everton,Southampton,2,0,2025-05-18
+1208392,West Ham,Nottingham Forest,1,2,2025-05-18
+1208390,Leicester,Ipswich,2,0,2025-05-18
+1208385,Brentford,Fulham,2,3,2025-05-18
+1208383,Arsenal,Newcastle,1,0,2025-05-18
+1208386,Brighton,Liverpool,3,2,2025-05-19
+1208391,Manchester City,Bournemouth,3,1,2025-05-20
+1208388,Crystal Palace,Wolves,4,2,2025-05-20
+1208397,Manchester United,Aston Villa,2,0,2025-05-25
+1208398,Newcastle,Everton,0,1,2025-05-25
+1208393,Bournemouth,Leicester,2,0,2025-05-25
+1208394,Fulham,Manchester City,0,2,2025-05-25
+1208402,Wolves,Brentford,1,1,2025-05-25
+1208396,Liverpool,Crystal Palace,1,1,2025-05-25
+1208400,Southampton,Arsenal,1,2,2025-05-25
+1208401,Tottenham,Brighton,1,4,2025-05-25
+1208395,Ipswich,West Ham,1,3,2025-05-25
+1208399,Nottingham Forest,Chelsea,0,1,2025-05-25
