@@ -39,16 +39,22 @@ cd Sorare_goalkeeper_scores
 ```
 
 2. Create and activate a virtual environment (optional but recommended)
+```bash
 python -m venv .venv
 source .venv/bin/activate  # or .venv\Scripts\activate on Windows
 Install dependencies
+```
 
-3. Install dependencies
+4. Install dependencies
+```bash
 pip install -r requirements.txt
 Open the notebook
+```
 
-4. Open the notebook
+5. Open the notebook
+```bash
 jupyter notebook notebooks/sorare_goalkeeper_matrix_analysis.ipynb
+```
 
 ## Contributing
 PRs and suggestions are welcome! Please open an issue or contact me if you have feedback or questions.
